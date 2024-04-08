@@ -195,6 +195,6 @@ Enlace para el figma: [https://www.figma.com/file/Q36lXagtHafwvymDgoRmJn/PROJECT
 
 ## 4.8. Database Design. 
 ### 4.8.1. Database Diagram.
-<img src="https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/Captura%20de%20pantalla%202024-04-08%20150916.png" width="300"/>
+<img src="https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/Captura%20de%20pantalla%202024-04-08%20150916.png" width="700"/>
 
 
