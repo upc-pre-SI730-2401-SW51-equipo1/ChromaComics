@@ -62,7 +62,9 @@ Enlace para el figma: [https://www.figma.com/file/Q36lXagtHafwvymDgoRmJn/PROJECT
 
 ## 4.7. Software Object-Oriented Design. 
 ### 4.7.1. Class Diagrams. 
+
 <img src="https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/class%20diagram_page-0001.jpg" width="300"/>
+
 ### 4.7.2. Class Dictionary. 
 Empleado
 Descripción: Representa a un empleado de la tienda.
@@ -120,6 +122,7 @@ SistemaTickets
 Descripción: Representa el sistema de tickets que los clientes pueden utilizar para reportar problemas y los empleados pueden resolver.
 Atributos: idTicket (String), idCliente (String), idEmpleado (String)
 Métodos: crearTicket(), resolverTicket()
+
 ## 4.8. Database Design. 
 ### 4.8.1. Database Diagram.
 
