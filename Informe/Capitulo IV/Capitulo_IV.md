@@ -51,15 +51,75 @@ Enlace para el figma: [https://www.figma.com/file/Q36lXagtHafwvymDgoRmJn/PROJECT
 ## 4.5. Web Applications Prototyping. 
 ## 4.6. Domain-Driven Software Architecture. 
 ### 4.6.1. Software Architecture Context Diagram.
-
 <img src="https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/structurizr-87456-SystemContext-001%20(1).png" width="500"/>
+
 ### 4.6.2. Software Architecture Container Diagrams.
+
 <img src="https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/structurizr-87456-Container-001%20(5).png" width="300"/>
+
 ### 4.6.3. Software Architecture Components Diagrams. 
 <img src="https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/structurizr-87456-Component-001.png" width="300"/>
+
 ## 4.7. Software Object-Oriented Design. 
 ### 4.7.1. Class Diagrams. 
+<img src="https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/class%20diagram_page-0001.jpg" width="300"/>
 ### 4.7.2. Class Dictionary. 
+Empleado
+Descripción: Representa a un empleado de la tienda.
+Atributos: idEmpleado (String), nombre (String), puesto (String)
+Métodos: gestionarInventario(), responderChat(), resolverTicket()
+Gerente
+Descripción: Representa al gerente de la tienda.
+Atributos: idGerente (String), nombre (String)
+Métodos: supervisarEmpleados()
+Cliente
+Descripción: Representa a un cliente de la tienda.
+Atributos: idCliente (String), nombre (String)
+Métodos: iniciarChat(), consultarBaseConocimientos(), crearTicketSoporte()
+AplicacionMovil
+Descripción: Representa la aplicación móvil que los clientes utilizan para interactuar con la tienda.
+Atributos: idApp (String), version (String)
+Métodos: iniciarSesion(), realizarCompra()
+SistemaRecomendacion
+Descripción: Representa el sistema que genera recomendaciones para los clientes.
+Atributos: idSistema (String)
+Métodos: generarRecomendaciones()
+RealizarCompras
+Descripción: Representa el proceso de realizar compras en la aplicación móvil.
+Atributos: idCompra (String), idCliente (String)
+Métodos: procesarCompra()
+ProcesamientoCompras
+Descripción: Representa el proceso de procesamiento de las compras realizadas.
+Atributos: idProcesamiento (String), idCompra (String)
+Métodos: procesarPago(), actualizarInventario()
+InventarioEnTiempoReal
+Descripción: Representa el inventario en tiempo real de la tienda.
+Atributos: idInventario (String), productos (List<Producto>)
+Métodos: gestionarInventario(), actualizarInventario()
+AlmacenamientoYAnalisisDatosNube
+Descripción: Representa el almacenamiento y análisis de datos en la nube.
+Atributos: idAlmacenamiento (String)
+Métodos: almacenarDatos(), analizarDatos()
+ServiciosPagoEnLinea
+Descripción: Representa los servicios de pago en línea utilizados para procesar los pagos de las compras.
+Atributos: idServicio (String)
+Métodos: procesarPago()
+SistemaSoporteCliente
+Descripción: Representa el sistema de soporte al cliente.
+Atributos: idSoporte (String)
+Métodos: iniciarChat(), consultarBaseConocimientos(), crearTicketSoporte()
+ChatEnVivo
+Descripción: Representa el chat en vivo utilizado para la comunicación en tiempo real entre los clientes y los empleados.
+Atributos: idChat (String), idCliente (String), idEmpleado (String)
+Métodos: iniciarChat(), enviarMensaje(), recibirMensaje(), finalizarChat()
+BaseConocimientos
+Descripción: Representa la base de conocimientos que los clientes pueden consultar para obtener información útil.
+Atributos: idBase (String), articulos (List<Articulo>)
+Métodos: consultarArticulo()
+SistemaTickets
+Descripción: Representa el sistema de tickets que los clientes pueden utilizar para reportar problemas y los empleados pueden resolver.
+Atributos: idTicket (String), idCliente (String), idEmpleado (String)
+Métodos: crearTicket(), resolverTicket()
 ## 4.8. Database Design. 
 ### 4.8.1. Database Diagram.
 
