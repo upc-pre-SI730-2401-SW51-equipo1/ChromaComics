@@ -45,6 +45,8 @@ Enlace para el figma: [https://shorturl.at/fT389](https://shorturl.at/fT389)
 Enlace para el figma: [https://www.figma.com/file/Q36lXagtHafwvymDgoRmJn/PROJECT-CHROMA-COMICS-(Copy)?type=design&node-id=7-82&mode=design&t=gN8dvcxRHqDoxXCY-0](https://www.figma.com/file/Q36lXagtHafwvymDgoRmJn/PROJECT-CHROMA-COMICS-(Copy)?type=design&node-id=7-82&mode=design&t=gN8dvcxRHqDoxXCY-0)
 ## 4.4. Web Applications UX/UI Design. 
 ### 4.4.1. Web Applications Wireframes.
+<img src="https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/Captura%20de%20pantalla%202024-04-08%20155355.png" width="300"/>
+#### enlace figma: https://www.figma.com/file/1YY3K8iV0ibhubYZavOeqO/Mobile-Applications-Wireframes-ChromeComics?type=whiteboard&node-id=0%3A1&t=MgmejNe55bcNsVyh-1
 ### 4.4.2. Web Applications Wireflow Diagrams. 
 ### 4.4.2. Web Applications Mock-ups
 ### 4.4.3. Web Applications User Flow Diagrams. 
