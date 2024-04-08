@@ -51,9 +51,12 @@ Enlace para el figma: [https://www.figma.com/file/Q36lXagtHafwvymDgoRmJn/PROJECT
 ## 4.5. Web Applications Prototyping. 
 ## 4.6. Domain-Driven Software Architecture. 
 ### 4.6.1. Software Architecture Context Diagram.
-![Context](assets/structurizr-87456-SystemContext-001 (1).png)
-### 4.6.2. Software Architecture Container Diagrams. 
+
+<img src="https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/structurizr-87456-SystemContext-001%20(1).png" width="500"/>
+### 4.6.2. Software Architecture Container Diagrams.
+<img src="https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/structurizr-87456-Container-001%20(5).png" width="300"/>
 ### 4.6.3. Software Architecture Components Diagrams. 
+<img src="https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/structurizr-87456-Component-001.png" width="300"/>
 ## 4.7. Software Object-Oriented Design. 
 ### 4.7.1. Class Diagrams. 
 ### 4.7.2. Class Dictionary. 
