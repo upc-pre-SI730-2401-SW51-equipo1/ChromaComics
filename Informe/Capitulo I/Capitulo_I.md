@@ -1,5 +1,6 @@
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
+### 1.1.1. Descripción de la Startup
 En un mundo donde la lectura es fundamental para el crecimiento personal y el aprendizaje continuo, surge una necesidad cada vez mayor de fomentar y motivar los hábitos de lectura en la era digital. Con el objetivo de hacer que la lectura sea más accesible, atractiva y conveniente que nunca, "ChromaComics" se posiciona como un aliado indispensable para lectores, autores y editores, especialmente aquellos interesados en cómics y libros educativos.
 "ChromaComics" es una startup dedicada a fomentar y motivar los hábitos de lectura mediante el uso de tecnologías innovadoras. Nuestra plataforma ofrece soluciones tecnológicas que facilitan el acceso, la distribución y la creación de contenidos, brindando una experiencia de lectura única y enriquecedora, especialmente diseñada para los amantes de los cómics y los libros educativos.
 	
@@ -7,8 +8,11 @@ Misión: Nuestra misión es fomentar y motivar los hábitos de lectura mediante 
 
 Visión: Nos esforzamos por convertirnos en el principal destino para los amantes de la lectura en la era digital, proporcionando una plataforma integral que satisfaga todas sus necesidades de lectura y descubrimiento de contenido.
 
-### 1.1.1. Descripción de la Startup
 
+### 1.1.2. Perfiles de integrantes del equipo
+
+## 1.2. Solution Profile
+### 1.2.1 Antecedentes y problemática
 **Antecedentes:**
 
 La importancia de fomentar hábitos de lectura sólidos desde edades tempranas ha sido ampliamente reconocida en la literatura educativa. Según la Asociación Internacional de Alfabetización, la lectura habitual está asociada con mejores habilidades lingüísticas, aumento del conocimiento general y mejores resultados académicos (Taylor et al., 2017). Sin embargo, en la era digital actual, la atención de los jóvenes se ha desviado hacia actividades en línea y pantallas electrónicas, lo que ha planteado desafíos significativos para promover la lectura tradicional en formatos impresos (Clark, 2016).
@@ -77,10 +81,6 @@ Los clientes pueden conocer el producto a través de diversos canales, como publ
 
 La cantidad de tiempo dedicado a la lectura ha disminuido en las últimas décadas, lo que tiene un impacto negativo en el desarrollo intelectual y la creatividad.
 
-
-### 1.1.2. Perfiles de integrantes del equipo
-## 1.2. Solution Profile
-### 1.2.1 Antecedentes y problemática
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
 #### 1.2.2.2. Lean UX Assumptions.
