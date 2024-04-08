@@ -83,6 +83,61 @@ La cantidad de tiempo dedicado a la lectura ha disminuido en las últimas décad
 
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
+Nuestra aplicación ofrece una plataforma digital innovadora que proporciona acceso, distribución y creación de contenidos de cómics y libros educativos, ofreciendo una experiencia de lectura única y enriquecedora diseñada específicamente para los amantes de los cómics y la literatura educativa.
+
+Hemos hallado un factor crítico que afecta a los amantes de la lectura en la era digital es la dificultad para encontrar contenido relevante y disfrutar de una experiencia de lectura satisfactoria. La falta de plataformas especializadas y soluciones tecnológicas adaptadas a sus necesidades específicas limita su participación activa en la lectura en línea.
+
+¿Cómo mejorar la experiencia de lectura en la era digital para los amantes de los cómics y los libros educativos?
+
 #### 1.2.2.2. Lean UX Assumptions.
+
+**Business Assumptions:**
+
+Creo que mis clientes necesitan acceder a una amplia variedad de cómics y libros educativos de manera conveniente y atractiva en la era digital.
+Estas necesidades se pueden resolver con una plataforma digital que facilite el acceso, distribución y creación de contenidos de cómics y libros educativos.
+Mis clientes iniciales serán los amantes de los cómics y estudiantes que buscan libros educativos con una experiencia de lectura en línea satisfactoria y enriquecedora.
+El valor #1 que un cliente quiere obtener de mi servicio es acceso conveniente a una amplia variedad de contenido relevante y de calidad.
+El cliente también puede obtener beneficios adicionales como personalización del contenido, recomendaciones basadas en intereses individuales, y participación en una comunidad de lectores.
+
+**User Assumptions:**
+
+¿Quién es el usuario?
+Los amantes de los cómics y estudiantes que buscan libros educativos con una experiencia de lectura en línea satisfactoria y enriquecedora.
+¿Dónde encaja nuestro producto en su trabajo o en su vida?
+
+Nuestra plataforma digital, ChromaComics, se integra en su vida diaria como una fuente conveniente de entretenimiento y aprendizaje.
+¿Qué problemas resuelve nuestro producto?
+
+Facilita el acceso a una amplia variedad de cómics y libros educativos, así como la personalización del contenido y la recomendación basada en intereses individuales.
+¿Cuándo y cómo se utiliza nuestro producto?
+
+
+El producto se utiliza tanto en momentos de ocio y aprendizaje, a través de dispositivos digitales como computadoras, tabletas y teléfonos inteligentes.
+¿Qué características son importantes?
+
+Acceso conveniente a una amplia variedad de contenido, personalización del contenido, recomendaciones basadas en intereses individuales, y participación en una comunidad de lectores.
+¿Cómo debe ser y comportarse nuestro producto?
+
+Debería tener una interfaz de usuario intuitiva y fácil de usar, con opciones de personalización y recomendación de contenido claramente visibles. Además, debería fomentar la participación activa de la comunidad de lectores.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
+
+**Hypothesis 1:**
+
+Creemos que al proporcionar una plataforma integral como ChromaComics, que ofrece acceso, distribución y creación de contenido conveniente, para los entusiastas de los cómics y libros educativos, lograremos aumentar el compromiso y la satisfacción con las experiencias de lectura digital.
+
+Sabremos que esto es cierto cuando observemos un aumento significativo en métricas de compromiso de usuario como el tiempo dedicado en la plataforma, la frecuencia de visitas y el número de páginas leídas por sesión, junto con comentarios positivos de los usuarios sobre la accesibilidad y la variedad de contenido ofrecido.
+
+**Hypothesis 2:**
+
+Creemos que al abordar el problema del acceso limitado a contenido digital satisfactorio, ChromaComics se convertirá en el destino principal para los amantes de los cómics y libros educativos que buscan una experiencia de lectura en línea satisfactoria y enriquecedora.
+
+Sabremos que esto es cierto cuando observemos un aumento sustancial en las tasas de adquisición y retención de usuarios, junto con una comunidad en crecimiento de usuarios activos que expresan su lealtad y satisfacción a través de testimonios positivos y recomendaciones a otros.
+
+**Hypothesis 3:**
+
+Creemos que al ofrecer recomendaciones de contenido personalizadas y opciones de personalización, ChromaComics mejorará la satisfacción del usuario y fomentará un sentido de pertenencia dentro de la comunidad de la plataforma.
+
+Sabremos que esto es cierto cuando recibamos comentarios positivos de los usuarios sobre la relevancia y calidad del contenido recomendado, acompañado de un aumento en la interacción del usuario dentro de características comunitarias como foros de discusión y contribuciones de contenido generado por el usuario.
+
 #### 1.2.2.4. Lean UX Canvas.
