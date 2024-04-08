@@ -41,3 +41,22 @@ Enlace para el figma: [https://shorturl.at/fT389](https://shorturl.at/fT389)
 Enlace para el figma: [https://shorturl.at/fT389](https://shorturl.at/fT389)
 
 ### 4.3.2. Landing Page Mock-up. 6/34 V1.0
+**![image](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/145626151/e6c0c8d4-6683-4f62-9cb8-9772384040e6)**
+Enlace para el figma: [https://www.figma.com/file/Q36lXagtHafwvymDgoRmJn/PROJECT-CHROMA-COMICS-(Copy)?type=design&node-id=7-82&mode=design&t=gN8dvcxRHqDoxXCY-0](https://www.figma.com/file/Q36lXagtHafwvymDgoRmJn/PROJECT-CHROMA-COMICS-(Copy)?type=design&node-id=7-82&mode=design&t=gN8dvcxRHqDoxXCY-0)
+## 4.4. Web Applications UX/UI Design. 
+### 4.4.1. Web Applications Wireframes.
+### 4.4.2. Web Applications Wireflow Diagrams. 
+### 4.4.2. Web Applications Mock-ups
+### 4.4.3. Web Applications User Flow Diagrams. 
+## 4.5. Web Applications Prototyping. 
+## 4.6. Domain-Driven Software Architecture. 
+### 4.6.1. Software Architecture Context Diagram. 
+### 4.6.2. Software Architecture Container Diagrams. 
+### 4.6.3. Software Architecture Components Diagrams. 
+## 4.7. Software Object-Oriented Design. 
+### 4.7.1. Class Diagrams. 
+### 4.7.2. Class Dictionary. 
+## 4.8. Database Design. 
+### 4.8.1. Database Diagram.
+
+
