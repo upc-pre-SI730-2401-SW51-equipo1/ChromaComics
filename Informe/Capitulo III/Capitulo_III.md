@@ -3,49 +3,71 @@
 ## 3.1. To-Be Scenario Mapping.
 Se empleó el TO-BE Scenario Mapping para visualizar cómo deberían ser los procesos después de implementar mejoras y cambios sugeridos. Es esencial en la mejora de procesos para ayudar a las organizaciones a visualizar operaciones optimizadas en el futuro.
 
-![TO-BE lectores](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/df327d08-d54e-47dd-a398-1b23d0135286)
-![TO-BE autores](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/be7dbc8b-78c6-4c64-a00e-af8e17e517db)
+![TO-BE1](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/caa7d760-425c-4d14-839e-cbe37be3f084)
+
+![TO-BE2](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/ff1b7e98-5a73-4619-a724-4510dadac655)
 
 
 ## 3.2. User Stories.
 
 |**Epic/Story**|**Título**|**Descripción**|**Criterios de Aceptación**|**Relacionado con (Epic ID)**|
 | :-: | :-: | :-: | :-: | :-: |
-|**EP01**|**Gestión de Cuentas de Usuario**|**Como usuario, deseo que la aplicación posea un sistema de registro e inicio de sesión seguro para poder acceder a todas las funcionalidades con mi cuenta personal.**|**-**|**-**|
-|**EP02**|**Exploración y Descubrimiento de Cómics**|**Como usuario, deseo que la aplicación posea herramientas de exploración y búsqueda avanzadas que me permitan descubrir nuevos cómics de manera fácil, incluyendo filtros, vistas previas y detalles completos.**|**-**|**-**|
-|**EP03**|**Compra y Biblioteca Personal**|**Como usuario, deseo que la aplicación posea una sección dedicada para comprar cómics de manera segura y gestionar mi biblioteca personal.**|**–**|**-**|
-|**EP04**|**Experiencia de Lectura**|**Como usuario, deseo que la aplicación posea características que optimicen mi experiencia de lectura de cómics, como alta calidad de imagen, modo offline, soporte multidispositivo y opciones de accesibilidad.**|**-**|**-**|
-|**EP05**|**Interacción con la Comunidad**|**Como usuario, deseo que la aplicación posea funcionalidades que me permitan interactuar con otros lectores y autores, como dejar comentarios, valoraciones, suscribirme a autores favoritos y recibir notificaciones relevantes.**|**–**|**-**|
-|**EP06**|**Publicación y Gestión de Cómics para Autores**|**Como autor, deseo que la aplicación posea herramientas que me permitan publicar mis propios cómics en la plataforma y gestionarlos, como editar detalles y recibir notificaciones de ventas.**|**–**|**-**|
-|**EP07**|**Recomendaciones y Personalización**|**Como usuario, deseo que la aplicación posea un sistema de recomendaciones personalizadas basado en mis preferencias, incluyendo sugerencias de compra relevantes.**|**–**|**-**|
-|HU-01|Registro de Usuario|Como usuario nuevo, quiero poder registrarme en la aplicación para acceder a todas las funcionalidades de ChromaComics.|<p>Escenario 1: Usuario se registra exitosamente </p><p>Dado que el usuario es nuevo en la aplicación</p><p>Cuando ingresa su información y hace clic en registrarse</p><p>Entonces se crea su cuenta y puede iniciar sesión</p><p>Escenario 2: Usuario intenta registrarse con un email ya existente</p><p>Dado que el usuario intenta registrarse</p><p>Cuando ingresa un email que ya está registrado</p><p>Entonces se le muestra un mensaje de error indicando que el email ya está en uso</p><p></p>|EP01|
-|HU-02|-|-|-|-|
-|HU-03|-|-|-|-|
-|HU-04|-|-|-|-|
-|HU-05|-|-|-|-|
-|HU-06|-|-|-|-|
-|HU-07|-|-|-|-|
-|HU-08|-|-|-|-|
-|HU-09|-|-|-|-|
-|HU-10|-|-|-|-|
-|HU-11|-|-|-|-|
-|HU-12|-|-|-|-|
-|HU-13|-|-|-|-|
-|HU-14|-|-|-|-|
-|HU-15|-|-|-|-|
-|HU-16|-|-|-|-|
-|HU-17|-|-|-|-|
-|HU-18|-|-|-|-|
-|HU-19|-|-|-|-|
-|HU-20|-|-|-|-|
+|**EP01**|**Gestión de Cuentas de Usuario**|**Como usuario nuevo, quiero poder registrarme e iniciar sesión en la aplicación para acceder a todas las funcionalidades de ChromaComics.**|**-**|**-**|
+|**EP02**|**Exploración y Descubrimiento de Contenido**|**Como usuario, deseo poder explorar el catálogo de cómics y libros educativos disponibles en la aplicación para descubrir nuevas obras.**|**-**|**-**|
+|**EP03**|**Experiencia de Lectura**|**Como usuario, deseo tener una experiencia de lectura fluida y de alta calidad en la aplicación.**|**-**|**-**|
+|**EP04**|**Interacción y Personalización**|**Como usuario, deseo poder interactuar con otros usuarios y recibir recomendaciones personalizadas.**|**-**|**-**|
+|**EP05**|**Funciones Exclusivas y Suscripción Premium**|**Como usuario, deseo acceder a funciones exclusivas y tener la opción de suscribirme al servicio Premium para obtener beneficios adicionales en la aplicación.**|**-**|**-**|
+|HU-01|Registro de Usuario|Como usuario nuevo, quiero poder registrarme en la aplicación para acceder a todas las funcionalidades de ChromaComics.|<p>Escenario 1: Registro exitoso</p><p>Dado que el usuario accede a la página de registro,</p><p>Cuando ingresa sus datos válidos y acepta los términos y condiciones,</p><p>Entonces se registra exitosamente y recibe una confirmación por email.</p><p></p>|EP01|
+|HU-02|Inicio de Sesión|Como usuario registrado, deseo poder iniciar sesión en la aplicación para acceder a mi cuenta.|<p>Escenario 1: Inicio de sesión exitoso</p><p>Dado que el usuario está registrado,</p><p>Cuando ingresa su email y contraseña correctos,</p><p>Entonces inicia sesión y accede a su cuenta.</p><p>Escenario 2: Credenciales incorrectas</p><p>Dado que el usuario intenta iniciar sesión,</p><p>Cuando ingresa un email o contraseña incorrectos,</p><p>Entonces recibe un mensaje de error indicando credenciales inválidas.</p><p></p>|EP01|
+|HU-03|Explorar Catálogo de Cómics|Como usuario, deseo poder explorar el catálogo de cómics disponibles en la aplicación para descubrir nuevas obras.|<p>Escenario 1: Exploración del catálogo</p><p>Dado que el usuario ha iniciado sesión,</p><p>Cuando navega por el catálogo de cómics,</p><p>Entonces ve una lista de cómics disponibles organizados por categorías.</p><p></p>|EP02|
+|HU-04|Ver Detalles de un Cómic|Como usuario, quiero ver los detalles completos de un cómic para conocer más sobre él.|<p>Escenario 1: Ver detalles completos</p><p>Dado que el usuario selecciona un cómic,</p><p>Cuando navega a la página de detalles del cómic,</p><p>Entonces ve información detallada como el autor, descripción, y comentarios de otros lectores.</p>|EP02|
+|HU-05|Lectura de Cómics|Como usuario, deseo poder leer cómics en la aplicación para disfrutar de su contenido.|<p>Escenario 1: Lectura online</p><p>Dado que el usuario selecciona un cómic para leer,</p><p>Cuando elige la opción de leer en línea,</p><p>Entonces el cómic se carga en un visor interactivo adecuado para la lectura.</p><p></p>|EP03|
+|HU-06|Gestión de Biblioteca Personal|Como usuario, quiero poder gestionar mi biblioteca personal de cómics para organizar mis lecturas.|<p>Escenario 1: Añadir cómic a la biblioteca</p><p>Dado que el usuario ha iniciado sesión,</p><p>Cuando elige añadir un cómic a su biblioteca personal,</p><p>Entonces el cómic se añade y es visible en su biblioteca.</p><p>Escenario 2: Eliminar cómic de la biblioteca</p><p>Dado que el usuario visualiza su biblioteca personal,</p><p>Cuando decide eliminar un cómic de su biblioteca,</p><p>Entonces el cómic se elimina y ya no está disponible en su biblioteca.</p><p></p>|EP03|
+|HU-07|Explorar Catálogo de Libros Educativos|Como usuario, deseo poder explorar el catálogo de libros educativos disponibles en la aplicación para acceder a contenido relevante.|<p>Escenario 1: Exploración exitosa</p><p>Dado que el usuario ha iniciado sesión,</p><p>Cuando navega por el catálogo de libros educativos,</p><p>Entonces ve una lista de libros disponibles organizados por temáticas educativas.</p><p></p>|EP02|
+|HU-08|Ver Detalles de un Libro Educativo|Como usuario, quiero ver los detalles completos de un libro educativo para conocer más sobre él.|<p>Escenario 1: Acceso a detalles completos</p><p>Dado que el usuario selecciona un libro educativo,</p><p>Cuando navega a la página de detalles del libro,</p><p>Entonces ve información detallada como el autor, descripción, y comentarios de otros lectores.</p><p></p>|EP02|
+|HU-09|Lectura de Libros Educativos|Como usuario, deseo poder leer libros educativos en la aplicación para aprender sobre diversos temas.|<p>Escenario 1: Lectura online de un libro</p><p>Dado que el usuario selecciona un libro educativo para leer,</p><p>Cuando elige la opción de leer en línea,</p><p>Entonces el libro se carga en un visor interactivo adecuado para la lectura.</p><p></p>|EP03|
+|HU-10|Función de Favoritos|Como usuario, quiero poder marcar cómics o libros como favoritos para acceder rápidamente a ellos desde mi perfil.|<p>Escenario 1: Añadir a favoritos</p><p>Dado que el usuario ha iniciado sesión y está explorando el catálogo,</p><p>Cuando marca un cómic o libro como favorito,</p><p>Entonces este se añade a su lista de favoritos accesible desde su perfil.</p><p>Escenario 2: Eliminar de favoritos</p><p>Dado que el usuario revisa su lista de favoritos,</p><p>Cuando decide eliminar un ítem de sus favoritos,</p><p>Entonces el ítem se elimina de la lista y ya no aparece como favorito.</p><p></p>|EP04|
+|HU-11|Recomendaciones Personalizadas|Como usuario, quiero recibir recomendaciones personalizadas de cómics y libros basadas en mis preferencias y lecturas anteriores.|<p>Escenario 1: Recibir recomendaciones</p><p>Dado que el usuario ha iniciado sesión y ha leído varios cómics y libros,</p><p>Cuando ingresa a la sección de recomendaciones,</p><p>Entonces ve una lista de cómics y libros sugeridos basados en sus lecturas anteriores y preferencias.</p><p></p>|EP04|
+|HU-12|Notificaciones de Nuevas Publicaciones|Como usuario, deseo recibir notificaciones sobre nuevos cómics y libros educativos añadidos a la plataforma.|<p>Escenario 1: Activación de notificaciones</p><p>Dado que el usuario desea ser notificado sobre nuevas publicaciones,</p><p>Cuando activa las notificaciones en la configuración de su cuenta,</p><p>Entonces recibe alertas cuando hay nuevas publicaciones de sus géneros o autores favoritos.</p><p>Escenario 2: Recepción de la notificación</p><p>Dado que el usuario ha activado las notificaciones para nuevos lanzamientos,</p><p>Cuando un nuevo cómic o libro educativo de su interés es añadido a la plataforma,</p><p>Entonces recibe una notificación informándole de esta nueva adición.</p><p></p>|EP04|
+|HU-13|Soporte Multidispositivo|Como usuario, quiero poder acceder a mis cómics y libros desde múltiples dispositivos para una experiencia de lectura fluida.|<p>Escenario 1: Continuar lectura en otro dispositivo</p><p>Dado que el usuario ha iniciado sesión en un nuevo dispositivo,</p><p>Cuando accede a su biblioteca personal,</p><p>Entonces puede continuar la lectura de un cómic o libro desde el punto exacto donde lo dejó en otro dispositivo.</p><p></p>|EP01|
+|HU-14|Suscripción Premium|Como usuario, deseo suscribirme al servicio Premium para acceder a contenido exclusivo y beneficios adicionales.|<p>Escenario 1: Suscripción a Premium</p><p>Dado que el usuario quiere acceder a contenido exclusivo y beneficios adicionales,</p><p>Cuando se suscribe al servicio Premium a través de su perfil,</p><p>Entonces tiene acceso inmediato a funcionalidades exclusivas como contenido sin publicidad, descargas ilimitadas y acceso a pre-lanzamientos.</p><p>Escenario 2: Renovación de Suscripción Premium</p><p>Dado que la suscripción Premium del usuario está por expirar,</p><p>Cuando el usuario decide renovar su suscripción,</p><p>Entonces la suscripción se extiende por el periodo seleccionado sin interrupción de los beneficios Premium.</p><p></p>|EP05|
+|HU-15|Modo Offline|Como usuario, quiero poder leer cómics y libros educativos sin necesidad de una conexión a internet.|<p>Escenario 1: Descarga para lectura offline</p><p>Dado que el usuario ha seleccionado un cómic o libro educativo,</p><p>Cuando elige la opción de descargar para lectura offline,</p><p>Entonces el contenido se descarga a su dispositivo, permitiéndole acceder a él sin necesidad de una conexión a internet.</p><p>Escenario 2: Acceso al contenido descargado sin conexión</p><p>Dado que el usuario desea leer sin conexión a internet,</p><p>Cuando abre la aplicación en modo offline y accede a su biblioteca,</p><p>Entonces puede ver y leer los cómics y libros que previamente ha descargado.</p><p></p>|EP03|
+|HU-16| Búsqueda por filtros|Como usuario, deseo poder filtrar los cómics y libros educativos disponibles, para encontrar obras de mi preferencia.|<p>Escenario 1: Usuario filtra por género</p><p>Dado que el usuario quiere ver cómics de un género específico</p><p>Cuando selecciona un género en el filtro de búsqueda</p><p>Entonces se muestran solo los cómics disponibles de ese género</p><p>Escenario 2: Usuario aplica múltiples filtros</p><p>Dado que el usuario quiere acotar su búsqueda</p><p>Cuando selecciona varios filtros como género, autor, calificación, etc.</p><p>Entonces se muestran solo los cómics que cumplen con todos los filtros aplicados</p><p></p>|EP03|
+|HU-17|Interacción con la Comunidad de Lectores|Como usuario, deseo poder interactuar con otros lectores en la aplicación, para comentar y valorar los cómics y libros de mi interés.|<p>Escenario 1: Usuario comenta en un cómic</p><p>Dado que el usuario ha leído un cómic</p><p>Cuando deja un comentario en la sección de comentarios</p><p>Entonces su comentario se muestra públicamente para otros lectores</p><p>Escenario 2: Usuario valora un cómic</p><p>Dado que el usuario ha terminado de leer un cómic</p><p>Cuando asigna una calificación de 1 a 5 estrellas</p><p>Entonces su calificación se suma al promedio de calificaciones del cómic</p><p></p>|EP04|
+|HU-18|Lectura Inmersiva|Como usuario, quiero poder activar un modo de lectura inmersiva que elimine distracciones visuales y me permita concentrarme completamente en la lectura.|<p>Escenario 1: Usuario activa el modo de lectura inmersiva</p><p>Dado que el usuario está leyendo un cómic o libro educativo</p><p>Cuando activa la opción "Modo Lectura Inmersiva"</p><p>Entonces la interfaz de la aplicación se oculta, mostrando solo el cómic a pantalla completa</p><p>Escenario 2: Usuario navega por las páginas en modo inmersivo</p><p>Dado que el usuario está en el modo de lectura inmersiva</p><p>Cuando desliza el dedo/mouse o presiona las teclas de navegación</p><p>Entonces se muestra la siguiente página del cómic o libro sin interrupciones visuales</p><p>Escenario 3: Usuario sale del modo de lectura inmersiva</p><p>Dado que el usuario está en el modo de lectura inmersiva</p><p>Cuando presiona el botón de "Salir" o realiza una acción específica</p><p>Entonces la interfaz de la aplicación se muestra nuevamente</p><p></p>| EP04|
+
+
 
 ## 3.3. Impact Mapping.
 Se empleó el Impact Mapping para definir objetivos y resultados deseados del proyecto para cada segmento objetivo. Esto permite identificar cómo los objetivos del negocio se traducen en impactos en los usuarios, priorizando acciones para lograr resultados finales. Utilizamos UXPressia para visualizar relaciones entre objetivos, impactos y acciones.
 
-Segmento objetivo: Lectores de comics
-![impact map lectores](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/72016f42-9204-45a0-b80f-4febf7968207)
-Segmento objetivo: Autores o creadores de comics
-![impact map autores](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/54642bbc-7992-422e-bedd-d14c6994b6c0)
+Segmento objetivo 1: Lectores de comics
+![ImpactMapping1](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/d7523fa6-9314-41e2-b1b0-40c9c00032e3)
+
+
+Segmento objetivo 2: Lectores de libros educativos
+![ImpactMapping2](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/4f5cb1da-51a8-438b-ad25-aa79c71146af)
+
+
 
 ## 3.4. Product Backlog.
-
+|**#Orden**|**User Story Id**|**Título**|**Descripción**|**Story Points (1 / 2 / 3 / 5 / 8)**|
+| :-: | :-: | :-: | :-: | :-: |
+|01|HU-01|Registro de Usuario|Como usuario nuevo, quiero poder registrarme en la aplicación para acceder a todas sus funcionalidades.|3|
+|02|HU-02|Inicio de Sesión|Como usuario registrado, deseo poder iniciar sesión en la aplicación para acceder a mi cuenta.|3|
+|03|HU-03|Explorar Catálogo de Cómics|Como usuario, deseo poder explorar el catálogo de cómics disponibles en la aplicación para descubrir nuevas obras.|8|
+|04|HU-04|Ver Detalles de un Cómic|Como usuario, quiero ver los detalles completos de un cómic para conocer más sobre él.|8|
+|05|HU-05|Lectura de Cómics|Como usuario, deseo poder leer cómics en la aplicación para disfrutar de su contenido.|8|
+|06|HU-06|Gestión de Biblioteca Personal|Como usuario, quiero poder gestionar mi biblioteca personal de cómics para organizar mis lecturas.|8|
+|07|HU-07|Explorar Catálogo de Libros Educativos|Como usuario, deseo poder explorar el catálogo de libros educativos disponibles en la aplicación para acceder a contenido relevante.|8|
+|08|HU-08|Ver Detalles de un Libro Educativo|Como usuario, quiero ver los detalles completos de un libro educativo para conocer más sobre él.|8|
+|09|HU-09|Lectura de Libros Educativos|Como usuario, deseo poder leer libros educativos en la aplicación para aprender sobre diversos temas.|8|
+|10|HU-10|Función de Favoritos|Como usuario, quiero poder marcar cómics o libros como favoritos para acceder rápidamente a ellos desde mi perfil.|5|
+|11|HU-11|Recomendaciones Personalizadas|Como usuario, quiero recibir recomendaciones personalizadas de cómics y libros basadas en mis preferencias y lecturas anteriores.|5|
+|12|HU-12|Notificaciones de Nuevas Publicaciones|Como usuario, deseo recibir notificaciones sobre nuevos cómics y libros añadidos a la plataforma.|3|
+|13|HU-13|Soporte Multidispositivo|Como usuario, quiero poder acceder a mis cómics y libros desde múltiples dispositivos para una experiencia de lectura fluida.|5|
+|14|HU-14|Suscripción Premium|Como usuario, deseo suscribirme al servicio Premium para acceder a contenido exclusivo y beneficios adicionales.|3|
+|15|HU-15|Modo Offline|Como usuario, quiero poder leer cómics y libros educativos sin necesidad de una conexión a internet.|5|
+|16|HU-16|Búsqueda por filtros|Como usuario, deseo poder filtrar los cómics y libros educativos disponibles, para encontrar obras de mi preferencia.|5|
+|17|HU-17|Interacción con la Comunidad de Lectores|Como usuario, deseo poder interactuar con otros lectores en la aplicación, para comentar y valorar los cómics y libros de mi interés.|5|
+|18|HU-18|Lectura Inmersiva|Como usuario, quiero poder activar un modo de lectura inmersiva que elimine distracciones visuales y me permita concentrarme completamente en la lectura.|5|
