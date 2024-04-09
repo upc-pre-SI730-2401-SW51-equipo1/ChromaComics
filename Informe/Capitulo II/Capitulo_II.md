@@ -25,25 +25,26 @@
 
 El User Journey Mapping ofrece una representación minuciosa de cada etapa que los usuarios atraviesan, sus emociones, puntos de contacto y áreas de conflicto a lo largo del proceso. Esto nos da una mejor comprensión de cómo los usuarios se relacionan con la aplicación.
 
-Segmento objetivo: Lectores de cómics
+Segmento objetivo 1: Lectores de cómics
 
-![UserJourney-lectores](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/342681d9-1bb8-4bff-b941-c53827e9742c)
+![UserJourney1](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/7a0b0897-4d01-4c09-be20-6814d98e3dc3)
 
-Segmento objetivo: Autores o vendedores de cómics
+Segmento objetivo 2: Lectores de libros educativos
 
-![UserJourney-autores](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/2c6b2013-0596-4286-b054-0478b48a15eb)
+![UserJourney2](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/f44e6f15-10d7-47c8-ab6b-b826d77c88e8)
 
 
 ### 2.3.4. Empathy Mapping
 
-Segmento objetivo: Lectores de cómics
 
-![EmpathyMapping-Lectores](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/d25c37bd-a59f-428d-a435-97fa9b19591f)
+Segmento objetivo 1: Lectores de cómics
+
+![EmpathyMapping1](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/f2a89743-f777-49fb-b2de-2a0f60792872)
 
 
-Segmento objetivo: Autores o vendedores de cómics
+Segmento objetivo 2: Lectores de libros educativos
 
-![EmpathyMapping-Autores](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/a8d8cfa7-1ef4-4f88-9c6c-9b1436f8d814)
+![EmpathyMapping2](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/546a3845-999f-442e-b0ef-7121a56069af)
 
 
 ### 2.3.5 As-Is Scenario Mapping
@@ -51,9 +52,9 @@ Segmento objetivo: Autores o vendedores de cómics
 
 Se empleó el AS-IS Scenario Mapping para comprender y registrar la situación actual de las interacciones de los usuarios con la plataforma. Este enfoque permite capturar en detalle cómo los usuarios se relacionan con la aplicación en su forma presente, sus acciones, emociones y áreas de conflicto.
 
-![AS-IS-Lectores](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/8a470f38-bfd1-41cb-94a5-a289011e5e74)
+![AS-IS1](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/97cecca2-e777-4782-a071-7d261567e277)
 
-![AS-IS-Autores](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/25ee2aa7-9114-41b7-b2f3-b31bec805818)
+![AS-IS2](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/2dd8666c-edb8-4b31-af6c-d9a30acad7b5)
 
 
 ## 2.4 Ubiquituous Language
