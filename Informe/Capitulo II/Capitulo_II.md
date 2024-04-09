@@ -58,7 +58,7 @@ Nombre: Jose Luis Jhon Castillo
 
 Edad: 22 años
 
-Distrito: Santiago de surco, Lima
+Distrito: Santiago de Surco, Lima
 
 ![Alt text](joseluis.png)
 
