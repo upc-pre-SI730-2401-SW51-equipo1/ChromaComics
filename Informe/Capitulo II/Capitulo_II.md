@@ -113,3 +113,26 @@ Se empleó el AS-IS Scenario Mapping para comprender y registrar la situación a
 
 
 ## 2.4 Ubiquituous Language
+
+
+- User (Usuario): Una persona que interactúa con la aplicación ChromaComics para navegar, leer y administrar cómics y libros educativos.
+
+- Registration (Registro): El proceso mediante el cual un nuevo usuario crea una cuenta dentro de la aplicación ChromaComics proporcionando información necesaria como correo electrónico, nombre de usuario y contraseña.
+
+- Login (Inicio de Sesión): La acción de acceder a la cuenta de un usuario proporcionando credenciales válidas (correo electrónico y contraseña) para ingresar a la aplicación ChromaComics.
+
+- Reading Experience (Experiencia de Lectura): La experiencia general de los usuarios al leer cómics y libros educativos dentro de la aplicación ChromaComics, centrándose en aspectos como la legibilidad, navegación y diseño de la interfaz de usuario.
+
+- Interaction and Community Participation (Interacción y Participación Comunitaria): La participación de los usuarios dentro de la comunidad de ChromaComics, involucrando actividades como dejar reseñas, comentarios y calificaciones, así como participar en discusiones y foros.
+
+- Favorites Feature (Función de Favoritos): Una funcionalidad dentro de la aplicación ChromaComics que permite a los usuarios marcar cómics o libros educativos específicos como favoritos para acceder rápidamente desde su perfil de usuario.
+
+- Personalized Recommendations (Recomendaciones Personalizadas): Sugerencias proporcionadas a los usuarios dentro de la aplicación ChromaComics basadas en su historial de lecturas, preferencias y comportamiento del usuario, con el objetivo de mejorar su experiencia de lectura y ayudarles a descubrir nuevo contenido.
+
+- New Publications Notifications (Notificaciones de Nuevas Publicaciones): Alertas enviadas a los usuarios dentro de la aplicación ChromaComics para informarles sobre nuevos cómics o libros educativos añadidos a la plataforma, basados en sus géneros seleccionados o autores favoritos.
+
+- Multi-device Support (Soporte Multidispositivo): La capacidad de la aplicación ChromaComics para sincronizar de manera fluida y permitir el acceso a las bibliotecas y progreso de lectura del usuario en varios dispositivos, garantizando una experiencia de lectura consistente.
+
+- Premium Subscription (Suscripción Premium): Un servicio de suscripción ofrecido dentro de la aplicación ChromaComics, que proporciona a los usuarios acceso a contenido exclusivo, características adicionales y beneficios como lectura sin publicidad, descargas ilimitadas y acceso anticipado a nuevos lanzamientos.
+
+- Offline Mode (Modo Offline): Un modo dentro de la aplicación ChromaComics que permite a los usuarios leer cómics y libros educativos sin necesidad de una conexión a internet, accediendo al contenido previamente descargado en su dispositivo.
