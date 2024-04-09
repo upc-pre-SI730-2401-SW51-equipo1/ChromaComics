@@ -71,6 +71,8 @@ A el le gustaría confiar en una plataforma que le brinde herramientas necesaria
 
 ### 2.3.1. User Personas
 
+![UserPersona1](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/Silvia Romina Vargas Bustamante.png)
+
 ### 2.3.2. User Task Matrix
 
 ### 2.3.3 User Journey Mapping
