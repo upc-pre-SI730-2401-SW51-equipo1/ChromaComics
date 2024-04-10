@@ -55,6 +55,8 @@ Enlace para el figma: [https://www.figma.com/file/Q36lXagtHafwvymDgoRmJn/PROJECT
 
 ### 4.4.2. Web Applications Wireflow Diagrams. 
 
+<img src="https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/Captura%20de%20pantalla%202024-04-09%20211406.png" width="300"/>
+
 ### 4.4.2. Web Applications Mock-ups
 
 
