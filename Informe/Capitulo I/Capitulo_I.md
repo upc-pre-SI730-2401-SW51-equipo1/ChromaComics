@@ -141,3 +141,6 @@ Creemos que al ofrecer recomendaciones de contenido personalizadas y opciones de
 Sabremos que esto es cierto cuando recibamos comentarios positivos de los usuarios sobre la relevancia y calidad del contenido recomendado, acompañado de un aumento en la interacción del usuario dentro de características comunitarias como foros de discusión y contribuciones de contenido generado por el usuario.
 
 #### 1.2.2.4. Lean UX Canvas.
+
+![image](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/129322252/de3b3800-2145-4eca-a52d-9a9b7da95736)
+
