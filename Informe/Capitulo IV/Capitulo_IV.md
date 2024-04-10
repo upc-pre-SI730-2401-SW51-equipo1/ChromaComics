@@ -41,15 +41,27 @@ Enlace para el figma: [https://shorturl.at/fT389](https://shorturl.at/fT389)
 Enlace para el figma: [https://shorturl.at/fT389](https://shorturl.at/fT389)
 
 ### 4.3.2. Landing Page Mock-up. 6/34 V1.0
+
 **![image](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/145626151/e6c0c8d4-6683-4f62-9cb8-9772384040e6)**
+
 Enlace para el figma: [https://www.figma.com/file/Q36lXagtHafwvymDgoRmJn/PROJECT-CHROMA-COMICS-(Copy)?type=design&node-id=7-82&mode=design&t=gN8dvcxRHqDoxXCY-0](https://www.figma.com/file/Q36lXagtHafwvymDgoRmJn/PROJECT-CHROMA-COMICS-(Copy)?type=design&node-id=7-82&mode=design&t=gN8dvcxRHqDoxXCY-0)
+
 ## 4.4. Web Applications UX/UI Design. 
 ### 4.4.1. Web Applications Wireframes.
-<img src="https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/Captura%20de%20pantalla%202024-04-08%20155355.png" width="300"/>
-#### enlace figma: https://www.figma.com/file/1YY3K8iV0ibhubYZavOeqO/Mobile-Applications-Wireframes-ChromeComics?type=whiteboard&node-id=0%3A1&t=MgmejNe55bcNsVyh-1
+
+<img src="https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/Captura%20de%20pantalla%202024-04-09%20211806.png" width="300"/>
+
+#### enlace figma: https://www.figma.com/file/KfWXjIlXJKS37xUiRLbRF3/ChromeComics?type=design&node-id=0%3A1&mode=design&t=vdFAD6nMQxCXaJNB-1
+
 ### 4.4.2. Web Applications Wireflow Diagrams. 
+
 ### 4.4.2. Web Applications Mock-ups
+
+
+figma:https://www.figma.com/file/Q36lXagtHafwvymDgoRmJn/PROJECT-CHROMA-COMICS-(Copy)?type=design&node-id=91%3A189&mode=design&t=RjzO2SV7g0vA73Cu-1
+
 ### 4.4.3. Web Applications User Flow Diagrams. 
+
 ## 4.5. Web Applications Prototyping. 
 ## 4.6. Domain-Driven Software Architecture. 
 ### 4.6.1. Software Architecture Context Diagram.
