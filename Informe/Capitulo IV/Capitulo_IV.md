@@ -58,13 +58,19 @@ Enlace para el figma: [https://www.figma.com/file/Q36lXagtHafwvymDgoRmJn/PROJECT
 <img src="https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/Captura%20de%20pantalla%202024-04-09%20211406.png" width="300"/>
 
 ### 4.4.2. Web Applications Mock-ups
-
+<img src="https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/Captura%20de%20pantalla%202024-04-10%20131518.png" width="300"/>
 
 figma:https://www.figma.com/file/Q36lXagtHafwvymDgoRmJn/PROJECT-CHROMA-COMICS-(Copy)?type=design&node-id=91%3A189&mode=design&t=RjzO2SV7g0vA73Cu-1
 
 ### 4.4.3. Web Applications User Flow Diagrams. 
+<img src="https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/Captura%20de%20pantalla%202024-04-10%20130440.png" width="300"/>
 
 ## 4.5. Web Applications Prototyping. 
+
+Miralo en Figma
+
+https://www.figma.com/file/ABX1KgmWFdZdGp24pRfeT6/ChromeComics-mockup?type=design&node-id=0%3A1&mode=design&t=G3WlUwCydZfxuNDh-1
+
 ## 4.6. Domain-Driven Software Architecture. 
 ### 4.6.1. Software Architecture Context Diagram.
 <img src="https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/structurizr-87456-SystemContext-001%20(1).png" width="500"/>
