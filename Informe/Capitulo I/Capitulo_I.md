@@ -142,5 +142,7 @@ Sabremos que esto es cierto cuando recibamos comentarios positivos de los usuari
 
 #### 1.2.2.4. Lean UX Canvas.
 
-![image](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/129322252/de3b3800-2145-4eca-a52d-9a9b7da95736)
+![image](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/129322252/3fe9c85a-20c4-4b7d-96e6-15ce8595bb55)
+
+
 
