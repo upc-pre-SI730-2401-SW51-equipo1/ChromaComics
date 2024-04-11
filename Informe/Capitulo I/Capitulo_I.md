@@ -19,7 +19,7 @@ Soy Sergio Joel Pecan, un estudiante de Ingeniería de Software en la UPC, actua
 
 **Miguel Ángel Huamán Cataño**
 
-![image](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/129322252/32a9bbf4-f3fd-4db7-8215-87fff01a2bf4)
+<img src="https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/129322252/32a9bbf4-f3fd-4db7-8215-87fff01a2bf4" width="300"/>
 
 Mi nombre es Miguel Ángel Huamán Cataño, tengo 20 años y soy estudiante de ingeniería de software. Soy una persona que disfruta trabajar con empeño para alcanzar mis objetivos, nunca me rindo a pesar de los momentos difíciles y haré todo lo posible para seguir mejorando en este largo camino de ser un buen profesional.
 
