@@ -22,6 +22,12 @@ Soy Sergio Joel Pecan, un estudiante de Ingeniería de Software en la UPC, actua
 
 Mi nombre es Miguel Ángel Huamán Cataño, tengo 20 años y soy estudiante de ingeniería de software. Soy una persona que disfruta trabajar con empeño para alcanzar mis objetivos, nunca me rindo a pesar de los momentos difíciles y haré todo lo posible para seguir mejorando en este largo camino de ser un buen profesional.
 
+**Andre Sebastian La torre Soto**
+![image](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/129322252/a842fa27-08bc-4315-88c4-a0a7a918caa0)
+
+Mi nombre es André Sebastián La torre Soto, actualmente me encuentro en el quinto ciclo de la carrera de Ingeniería de Software. Elegí esta carrera por mi afinidad con las matemáticas y las nuevas tecnologías. Soy alguien que disfruta el aprender y mejorar lo aprendido, a pesar de que esto a veces resulte difícil. Espero poder contribuir de manera positiva en este grupo para que juntos todos podamos alcanzar nuestras metas.
+
+
 
 
 ## 1.2. Solution Profile
