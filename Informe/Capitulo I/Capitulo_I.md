@@ -12,8 +12,7 @@ Visión: Nos esforzamos por convertirnos en el principal destino para los amante
 ### 1.1.2. Perfiles de integrantes del equipo
 
 **Sergio Joel Pecan**
-
-![image](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/129322252/fb109769-7e8b-447f-8f6b-cdfa3c2d5dc8  width="300")
+<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/145626151/4a9fc240-68c7-4b1b-8e8b-2b41a01dfc1a" width="300"/>
 
 Soy Sergio Joel Pecan, un estudiante de Ingeniería de Software en la UPC, actualmente en mi quinto ciclo. Desde pequeño, siempre he sentido una gran curiosidad por la tecnología y una pasión por la innovación que me impulsa constantemente a explorar y aprender nuevas cosas. Lo admito, soy un chico difícil de quedarme quieto, pero esa inquietud es mi mayor ventaja. Me encanta estar siempre en movimiento, buscando nuevas formas de innovar y aplicar lo que aprendo en el desarrollo de software. La UPC me ha brindado un entorno perfecto para nutrir mi curiosidad y ampliar mis horizontes tecnológicos.
 
