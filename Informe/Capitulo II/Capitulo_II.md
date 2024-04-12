@@ -83,7 +83,11 @@ A el le gustaría confiar en una plataforma que le brinde herramientas necesaria
 
 ### 2.3.2. User Task Matrix
 
+**Para consumidores de comics:**
+
 ![UserMatrix1](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/matrix1.png)
+
+**Para consumidores de libros educativos:**
 
 ![UserMatrix1](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/matrix2.png)
 
