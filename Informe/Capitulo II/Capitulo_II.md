@@ -8,11 +8,13 @@
 
 ### 2.1.1. Análisis Competitivo
 
-![Alt text](image-13.png)
-![Alt text](image-14.png)
-![Alt text](image-15.png)
-![Alt text](image-16.png)
-![Alt text](image-17.png)
+![Alt text]([image-13.png](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/analisiscompetitivo1.png))
+![Alt text]([image-14.png](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/analisiscompetitivo2.png))
+![Alt text]([image-15.png](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/analisiscompetitivo3.png))
+![Alt text]([image-16.png](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/analisiscompetitivo4.png))
+![Alt text]([image-17.png](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/analisiscompetitivo5.png))
+![Alt text]([image-17.png](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/analisiscompetitivo6.png))
+![Alt text]([image-17.png](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/analisiscompetitivo7.png))
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
