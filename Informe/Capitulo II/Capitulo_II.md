@@ -83,6 +83,10 @@ A el le gustaría confiar en una plataforma que le brinde herramientas necesaria
 
 ### 2.3.2. User Task Matrix
 
+![UserMatrix1](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/matrix1.png)
+
+![UserMatrix1](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/matrix2.png)
+
 ### 2.3.3 User Journey Mapping
 
 
