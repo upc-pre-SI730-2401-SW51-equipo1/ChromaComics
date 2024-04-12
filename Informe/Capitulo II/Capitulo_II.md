@@ -77,6 +77,8 @@ A el le gustaría confiar en una plataforma que le brinde herramientas necesaria
 
 ![UserPersona1](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/Silvia%20Romina%20Vargas%20Bustamante.png)
 
+![UserPersona2](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/Roberto%20Luis%20Domingo%20Palomino.png)
+
 ### 2.3.2. User Task Matrix
 
 ### 2.3.3 User Journey Mapping
