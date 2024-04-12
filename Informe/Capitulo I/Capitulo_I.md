@@ -29,7 +29,11 @@ Mi nombre es Miguel Ángel Huamán Cataño, tengo 20 años y soy estudiante de i
 
 Mi nombre es André Sebastián La torre Soto, actualmente me encuentro en el quinto ciclo de la carrera de Ingeniería de Software. Elegí esta carrera por mi afinidad con las matemáticas y las nuevas tecnologías. Soy alguien que disfruta el aprender y mejorar lo aprendido, a pesar de que esto a veces resulte difícil. Espero poder contribuir de manera positiva en este grupo para que juntos todos podamos alcanzar nuestras metas.
 
+**Fabrizzio Hernan Laguerre Challco**
 
+<img src="https://github.com/Programadores-de-lavadoras/Report/blob/develop/images/fabrizzio.jpg" width="300"/>
+
+Mi nombre es Fabrizzio Hernán Laguerre Challco, tengo 19 años, desde pequeño siempre he sentido un interés por aprender a usar ciertos dispositivos siendo uno de estos los más útiles que tenemos en la actualidad, las computadoras, por ello me esforzado en practicar y aprender ciertas habilidades en ofimática, edición de videos, programación y en aprender inglés, habilidades que puedo ofrecer para contribuir al grupo.
 
 
 ## 1.2. Solution Profile
