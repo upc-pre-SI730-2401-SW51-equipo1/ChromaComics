@@ -33,7 +33,15 @@ Mi nombre es André Sebastián La torre Soto, actualmente me encuentro en el qui
 
 <img src="https://github.com/Programadores-de-lavadoras/Report/blob/develop/images/fabrizzio.jpg" width="300"/>
 
+
+
 Mi nombre es Fabrizzio Hernán Laguerre Challco, tengo 19 años, desde pequeño siempre he sentido un interés por aprender a usar ciertos dispositivos siendo uno de estos los más útiles que tenemos en la actualidad, las computadoras, por ello me esforzado en practicar y aprender ciertas habilidades en ofimática, edición de videos, programación y en aprender inglés, habilidades que puedo ofrecer para contribuir al grupo.
+
+**Alvaro Crispin Ccancce**
+
+<img src="https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/129322252/581e48b8-75f3-44ac-a807-e382731354bb" width="300"/>
+
+Soy un estudiante universitario de séptimo ciclo de Ingeniería de Software. Me desempeño correctamente en equipo y de manera organizada. Siempre dedicado y comprometido para lograr los objetivos propuestos. Conocimientos en C++, HTML, JavaScript, BootsTrap y Kotlin. Mi meta personal es lograr que las personas puedan aprender a proteger sus datos, dentro de los sistemas, de manera sencilla.
 
 
 ## 1.2. Solution Profile
@@ -173,4 +181,10 @@ Sabremos que esto es cierto cuando recibamos comentarios positivos de los usuari
 ## 1.3. Segmentos objetivo.
 
 
+**Compradores de cómics:**
 
+Millones de personas en todo el mundo disfrutan de los cómics y novelas gráficas. La demografía global de los compradores de cómics es variada, con un ligero predominio masculino, donde aproximadamente el 60% son hombres y el 40% mujeres. La mayoría de los lectores son jóvenes adultos de entre 18 y 34 años, representando casi el 50% del total. Los cómics tienen una fuerte presencia en países con industrias consolidadas del cómic como Estados Unidos, Japón (manga), y Corea del Sur (manhwa), y también son populares en Europa y América Latina.
+
+**Compradores de libros educativos:**
+
+Para este segmento se muestra una distribución equilibrada entre compradores varones y mujeres, con variaciones que dependen del nivel educativo y del campo de estudio. En términos de edad, esta abarca desde jovenes estudiantes hasta adultos en formación continua, destacándose que estudiantes de educación básica y superior constituyen más del 70% del mercado. Geográficamente, los libros educativos son muy demandados a nivel mundial, especialmente en países con sistemas educativos robustos como Estados Unidos, China, India, Brasil y varios países europeos.
