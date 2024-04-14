@@ -71,6 +71,20 @@ Distrito: Santiago de Surco, Lima
 Jose Luis es un universitario que en sus pasatiempos se dedica a coleccionar y leer comics. El comenta que compro regularmente cada semana un nuevo comic en físico de su obra favorita, y nos brinda sus comentarios y esperiencias vividas mientras aumentaba su colección de comics.
 A el le gustaría confiar en una plataforma que le brinde herramientas necesarias para poder seguir aumentando el tamaño y diversidad de su colección, a la vez que busca conocer nuevos comics y autores.
 
+_Consumidor de libros educativos_
+
+Nombre: Juan Jose Alfaro Hernandez
+
+Edad: 18 años
+
+Distrito: Lince, Lima
+
+![Alt text](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/josealfaro.png?raw=true)
+
+Jose alfaro es un postulante que se encuentra actualmente postulando a la carrera de ingeniería de software en la universidad peruana de ciencias aplicadas, nos comenta cuales son sus intereses y metodos al escoger que libros utilizar para preparase para el examen de admisión.
+A el le gustaría confiar en una plataforma que le brinde herramientas necesarias para poder tener siempre disponible los libros que necesita para su futuro desarrollo en la carrera.
+
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
