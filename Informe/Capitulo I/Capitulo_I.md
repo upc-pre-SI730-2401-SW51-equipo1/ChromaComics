@@ -173,4 +173,10 @@ Sabremos que esto es cierto cuando recibamos comentarios positivos de los usuari
 ## 1.3. Segmentos objetivo.
 
 
+**Compradores de cómics:**
 
+A nivel mundial, los cómics constituyen una industria vibrante que atrae a millones de lectores de todas las edades. En los Estados Unidos, por ejemplo, el mercado del cómic y la novela gráfica alcanzó ventas de más de 1.28 mil millones de dólares en 2020, según un informe de ICv2 y Comichron. En Japón, el país natal del manga, las ventas del manga en todas sus formas se estimaron en aproximadamente 612.6 mil millones de yenes (5.77 mil millones de dólares) en 2019, según un reporte de The Research Institute for Publications. Además, Francia es conocida por su fuerte mercado de bandas diseñadas (cómics europeos), con un segmento importante de la población que disfruta de una amplia gama de cómics traducidos y locales. Estos datos subrayan la universalidad y diversidad del interés por los cómics, destacando la relevancia cultural y económica del medio.
+
+**Compradores de libros educativos:**
+
+Según un reporte de Research and Markets, se espera que el mercado global de libros de texto educativos crezca a una tasa compuesta anual del 4% de 2021 a 2025. Este crecimiento es impulsado por la demanda constante de materiales de aprendizaje de calidad en escuelas y universidades, así como por el aumento de la educación en casa y el aprendizaje en línea. Entre jovenes que buscan libros que complementen su currículo educativo, como textos avanzados de matemáticas, ciencias, literatura, y ciencias sociales y adultos que buscan educación continua o cambio de carrera pueden buscar libros en áreas específicas de interés o necesidad, incluyendo libros sobre habilidades de gestión, tecnologías emergentes,etc.
