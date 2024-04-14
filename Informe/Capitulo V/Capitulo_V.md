@@ -82,7 +82,11 @@ Para el formato de versiones se aplicará "Semantic Versioning 2.0.0". Donde las
 - C#: Con el fin de cumplir los estándares del leguaje, se usará la [guia proporcionada por Microsoft](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions).
 - .NET Framework: Para cumplir con la guia de estilos, Microsoft también nos proporciona una guia en su propio [repositorio github](https://github.com/dotnet/aspnetcore/wiki/Engineering-guidelines#coding-guidelines).
 ### 5.1.4. Software Deployment Configuration.
-
+Para el despliege en la plataforma, lo realizaremos de la siguiente manera:
+1.  Accedemos  a [Netlify](https://www.netlify.com/) y nos creamos una cuenta (si ya contamos con una cuenta, ingresamos). Luego, realizamos la busqueda de la sección de ''add new site'' e importaremos un proyecto existente con la opción ''Import an existing project''.
+2. Seleccionamos cuál será la plataforma con el repositorio donde tenemos el código de nuestra aplicación. En nuestro caso será GitHub.
+3. Seleccionamos la organización en donde se instalará el deploy de nuestra página web
+4. Finalmente, indicamos el repositorio y la ruta o branch de la cuál se realizará el despliegue.
 ## 5.2. Landing Page, Services & Applications Implementation.
 
 ### 5.2.1. Sprint 1
