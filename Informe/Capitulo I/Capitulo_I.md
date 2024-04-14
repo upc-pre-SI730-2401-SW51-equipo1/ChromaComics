@@ -33,7 +33,15 @@ Mi nombre es André Sebastián La torre Soto, actualmente me encuentro en el qui
 
 <img src="https://github.com/Programadores-de-lavadoras/Report/blob/develop/images/fabrizzio.jpg" width="300"/>
 
+
+
 Mi nombre es Fabrizzio Hernán Laguerre Challco, tengo 19 años, desde pequeño siempre he sentido un interés por aprender a usar ciertos dispositivos siendo uno de estos los más útiles que tenemos en la actualidad, las computadoras, por ello me esforzado en practicar y aprender ciertas habilidades en ofimática, edición de videos, programación y en aprender inglés, habilidades que puedo ofrecer para contribuir al grupo.
+
+**Alvaro Crispin Ccancce**
+
+<img src="https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/129322252/581e48b8-75f3-44ac-a807-e382731354bb" width="300"/>
+
+Soy un estudiante universitario de séptimo ciclo de Ingeniería de Software. Me desempeño correctamente en equipo y de manera organizada. Siempre dedicado y comprometido para lograr los objetivos propuestos. Conocimientos en C++, HTML, JavaScript, BootsTrap y Kotlin. Mi meta personal es lograr que las personas puedan aprender a proteger sus datos, dentro de los sistemas, de manera sencilla.
 
 
 ## 1.2. Solution Profile
