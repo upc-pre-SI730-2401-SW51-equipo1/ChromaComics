@@ -156,3 +156,23 @@ No software deployment occurred during this sprint, as the focus was on the init
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 Throughout the sprint, the team collaborated closely on defining the structure and styles of the landing page, actively discussing design and development best practices. GitHub repositories were used to coordinate work and conduct code reviews among team members.
+
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1.Sprint Planning 2.
+
+#### 5.2.2.2.Sprint Backlog 2.
+
+#### 5.2.2.3.Development Evidence for Sprint Review.
+
+#### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+
+#### 5.2.2.5.Execution Evidence for Sprint Review.
+
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+#### 5.2.2.8.Team Collaboration Insights during Sprint.
+
+
