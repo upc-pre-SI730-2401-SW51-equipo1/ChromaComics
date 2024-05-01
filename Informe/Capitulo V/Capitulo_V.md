@@ -163,6 +163,26 @@ Throughout the sprint, the team collaborated closely on defining the structure a
 
 #### 5.2.2.1.Sprint Planning 2.
 
+
+En este sprint nos enfocaremos en desarrollar la parte del front end de nuestro proyecto utilizando HTML, CSS y JavaScript. Las tareas principales incluyen:
+
+- Usar la estructura general de la landing page incluido en el figma.
+- Usar la paleta de colores y estilos visuales definidos en el style guide.
+- Configurar el repositorio en GitHub para el proyecto.
+
+| Sprint # | Sprint 2 |
+|----------|---------|
+| | Sprint Planning Background |
+| Date | 2024-04-22 |
+| Location | Virtual meeting via Google Meet |
+| Prepared By | André |
+| Attendees | Alvaro, Sergio Joel, André, Miguel, Fabrizzio |
+| Sprint n - 2 Review Summary | As this was our first meeting, we distributed we distribute the corrections and provided constant feedback on the sections. All team members demonstrated their knowledge and experience during the feedback sessions before committing the work to the repository. |
+| Sprint n - 2 Retrospective Summary | Our team members found that continuous review of progress before commits was necessary for the Project website development. While this approach allowed for unrestricted creative freedom, it led to a lack of cohesion and efficiency in the final delivery. For future projects, we aim to adopt a more structured approach, utilizing digital tools for remote collaboration to ensure all ideas are considered equitably. We believe this balance of creative freedom and organizational structure will yield even more impressive results in our future endeavors. |
+| | Sprint Goal & User Stories |
+| Sprint 2 Goal | Our sprint goal is to complete the project website front end. Our metric for success will be achieving the following: |
+| Sprint 2 Velocity | We aim to complete 5 features, which we consider an acceptable workload for steady progress. |
+
 #### 5.2.2.2.Sprint Backlog 2.
 
 #### 5.2.2.3.Development Evidence for Sprint Review.
