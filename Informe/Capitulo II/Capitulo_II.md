@@ -91,17 +91,50 @@ Perfil del usuario:
 José Luis es un universitario con un pasatiempo específico: la colección y lectura de cómics. Este hobby no solo implica un consumo regular, sino también una pasión por la expansión y diversificación de su colección.
 
 Necesidades identificadas:
-Acceso regular a nuevos cómics: José compra cómics físicos semanalmente, lo cual señala la importancia de un suministro constante y diverso.
-Plataforma confiable: Desea una plataforma que no solo sea un punto de compra, sino que también ofrezca recomendaciones personalizadas, novedades y tal vez exclusivas para ayudarle a descubrir nuevos cómics y autores.
+
+Acceso y Diversidad de Cómics
+
+Necesidad de novedades constantes: Como coleccionesista, José Luis desea estar al día con los últimos lanzamientos y tener acceso a ellos tan pronto como estén disponibles.
+Diversidad en selección: Además de los títulos populares, busca descubrir obras menos conocidas o de nicho, lo que requiere una plataforma que ofrezca un catálogo amplio y variado.
+
+Herramientas de Descubrimiento y Recomendación
+
+Recomendaciones personalizadas: Basadas en sus compras y lecturas anteriores, las recomendaciones deben ajustarse a sus gustos específicos y ayudarle a descubrir autores y series nuevas que probablemente le interesen.
+Alertas y notificaciones: Funcionalidades para informarle de nuevos lanzamientos o la llegada de cómics que podría estar esperando.
+
+Experiencia de Usuario
+
+Interfaz amigable y eficiente: Fácil de navegar, rápida y visualmente atractiva, lo cual es especialmente importante para un público interesado en el arte gráfico.
 
 Perfil del usuario:
 José Alfaro es un postulante a una carrera de ingeniería de software, lo cual indica una necesidad de recursos educativos especializados para prepararse para exámenes y para el futuro académico.
 
 Necesidades identificadas:
-Acceso a recursos educativos: Necesita libros y materiales que lo preparen efectivamente para el examen de admisión y estudios posteriores.
-Plataforma confiable y accesible: Busca una plataforma que garantice disponibilidad constante de los recursos necesarios para su formación.
 
-Con esta información, recalcamos la importancia de entender no solo las necesidades explícitas de los usuarios, sino también sus hábitos y expectativas, para así diseñar servicios que realmente resonen con ellos y les aporten valor continuo.
+Recursos Educativos Completos y Actualizados
+
+Acceso a libros de texto y guías de estudio: Necesita materiales que cubran el currículo actual y preparación específica para exámenes.
+Recursos adicionales: Acceso a videos, tutoriales y cursos en línea que complementen su aprendizaje.
+
+Accesibilidad y Conectividad
+
+Acceso desde cualquier lugar y en cualquier momento: Plataforma basada en la nube con opciones de sincronización entre dispositivos para que pueda estudiar en el camino o en diferentes ubicaciones.
+Soporte offline: Posibilidad de acceder a los recursos sin conexión a internet.
+
+Experiencia de Usuario
+
+Interfaz amigable y eficiente: Fácil de navegar, rápida y visualmente atractiva, lo cual es especialmente importante para un público interesado en el arte gráfico.
+
+Implicaciones Generales para nosotros.
+
+Interfaz Adaptativa: Debe ser capaz de atender tanto al usuario visual y creativo, como al técnico y académico, ajustando la experiencia de usuario según el contenido y las necesidades del segmento.
+
+Escalabilidad: Considerar la expansión futura de la plataforma para incluir más recursos, tanto en el ámbito del entretenimiento como en el educativo.
+
+Soporte Técnico Robusto: Garantizar que el soporte técnico esté disponible y sea eficaz para resolver cualquier inconveniente que pueda afectar la experiencia de usuario.
+Al atender estas necesidades específicas, tu plataforma puede posicionarse como una herramienta invaluable tanto para los aficionados a los cómics como para los estudiantes que buscan apoyo académico, lo que potencialmente podría aumentar la retención de usuarios y atraer a un público más amplio.
+
+Al atender estas necesidades específicas, nuestra plataforma puede posicionarse como una herramienta invaluable tanto para los aficionados a los cómics como para los estudiantes que buscan apoyo académico, lo que potencialmente podría aumentar la retención de usuarios y atraer a un público más amplio.
 
 ## 2.3. Needfinding
 
