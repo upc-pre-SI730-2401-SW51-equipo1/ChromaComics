@@ -87,6 +87,22 @@ A el le gustaría confiar en una plataforma que le brinde herramientas necesaria
 
 ### 2.2.3. Análisis de entrevistas
 
+Perfil del usuario:
+José Luis es un universitario con un pasatiempo específico: la colección y lectura de cómics. Este hobby no solo implica un consumo regular, sino también una pasión por la expansión y diversificación de su colección.
+
+Necesidades identificadas:
+Acceso regular a nuevos cómics: José compra cómics físicos semanalmente, lo cual señala la importancia de un suministro constante y diverso.
+Plataforma confiable: Desea una plataforma que no solo sea un punto de compra, sino que también ofrezca recomendaciones personalizadas, novedades y tal vez exclusivas para ayudarle a descubrir nuevos cómics y autores.
+
+Perfil del usuario:
+José Alfaro es un postulante a una carrera de ingeniería de software, lo cual indica una necesidad de recursos educativos especializados para prepararse para exámenes y para el futuro académico.
+
+Necesidades identificadas:
+Acceso a recursos educativos: Necesita libros y materiales que lo preparen efectivamente para el examen de admisión y estudios posteriores.
+Plataforma confiable y accesible: Busca una plataforma que garantice disponibilidad constante de los recursos necesarios para su formación.
+
+Con esta información, recalcamos la importancia de entender no solo las necesidades explícitas de los usuarios, sino también sus hábitos y expectativas, para así diseñar servicios que realmente resonen con ellos y les aporten valor continuo.
+
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
