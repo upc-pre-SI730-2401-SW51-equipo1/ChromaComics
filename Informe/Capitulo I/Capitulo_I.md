@@ -176,7 +176,7 @@ Sabremos que esto es cierto cuando recibamos comentarios positivos de los usuari
 #### 1.2.2.4. Lean UX Canvas.
 
 
-<img src="https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/129322252/84e6a254-c8eb-43a3-85fc-19a565bdb1f1" width="500"/>
+<img src="https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/129322252/84e6a254-c8eb-43a3-85fc-19a565bdb1f1" width="700"/>
 
 ## 1.3. Segmentos objetivo.
 
