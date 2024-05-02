@@ -33,7 +33,7 @@ Mi nombre es André Sebastián La torre Soto, actualmente me encuentro en el qui
 
 **Fabrizzio Hernan Laguerre Challco**
 
-<img src="fabrizzio.jpg" width="300"/>
+<img src="https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/129322252/581e48b8-75f3-44ac-a807-e382731354bb" width="300"/>
 
 
 
