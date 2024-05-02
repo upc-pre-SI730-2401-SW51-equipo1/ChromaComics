@@ -183,18 +183,49 @@ En este sprint nos enfocaremos en desarrollar la parte del front end de nuestro 
 | Sprint 2 Goal | Our sprint goal is to complete the project website front end. Our metric for success will be achieving the following: |
 | Sprint 2 Velocity | We aim to complete 5 features, which we consider an acceptable workload for steady progress. |
 
-#### 5.2.2.2.Sprint Backlog 2.
+#### 5.2.1.2. Sprint Backlog 2.
+sprint backlog with the tasks:
+-Create Wireframes for Each Landing Page Section: Design wireframes for each section of the landing page.
+-Select and Apply a Color Palette Using CSS: Choose and implement a color scheme using CSS.
+-Set Up the Basic Structure of the Landing Page Using HTML: Create the foundational structure of the landing page using HTML.
+Apply Basic Styles Using CSS for Formatting and Design: Add basic styles to enhance the formatting and visual design of the page.
 
-#### 5.2.2.3.Development Evidence for Sprint Review.
 
-#### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+| **User Story Id** | **Title** | **Work-Item/Task Id** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+|-------------------|------------|-----------------------|------------|-----------------|-----------------------|----------------|------------|
+| T01               | Explore the Homepage | W01 | Styling for the landing page | In this task, we will design the landing page to attract users to our product. | 1 | Alvaro, Sergio Joel | Done |
+| T02               | View Product/Service Information | W02 | Add details about our product | Provide additional information about our product and its benefits. | 1 | André | Done |
+| T03               | Contact the Sales Team | W03 | Add a form for email communication with the sales group | Create a contact section where users can provide their information. | 1 | Miguel | Done |
+| T04               | Explore Testimonials or Success Stories | W04 | Design a section to showcase testimonials or success stories | Create a section where users can read positive experiences from other clients. | 1 | Fabrizzio | done |
 
-#### 5.2.2.5.Execution Evidence for Sprint Review.
+During the sprint, the following elements were developed:
 
-#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+- Detailed wireframes for each section of the landing page.
+- A defined color palette applied using CSS.
+- The basic structure of the landing page created in HTML.
 
-#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+| Repository | Branch | Commit Id | Commit Message Body | Committed on (Date) |
+|------------|--------|-----------|---------------------|--------------------|
+| SergioPecan| main   | 8c856     | style: update landing language | 12/04/2024 |
 
-#### 5.2.2.8.Team Collaboration Insights during Sprint.
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+Preliminary tests were conducted to verify the correct display and functionality of the landing page across different devices and browsers.
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+During the sprint, active work was done on developing the landing page using HTML and CSS to structure and style the page based on wireframes and the defined color palette.
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Documentation was prepared regarding the landing page structure, including wireframes and a description of the color palette used.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+No software deployment occurred during this sprint, as the focus was on the initial development of the landing page.
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+
+Throughout the sprint, the team collaborated closely on defining the structure and styles of the landing page, actively discussing design and development best practices. GitHub repositories were used to coordinate work and conduct code reviews among team members.
 
 
