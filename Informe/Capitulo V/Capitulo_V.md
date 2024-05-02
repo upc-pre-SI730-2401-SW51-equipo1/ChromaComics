@@ -193,10 +193,11 @@ Apply Basic Styles Using CSS for Formatting and Design: Add basic styles to enha
 
 | **User Story Id** | **Title** | **Work-Item/Task Id** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
 |-------------------|------------|-----------------------|------------|-----------------|-----------------------|----------------|------------|
-| T01               | Explore the Homepage | W01 | Styling for the landing page | In this task, we will design the landing page to attract users to our product. | 1 | Alvaro, Sergio Joel | Done |
-| T02               | View Product/Service Information | W02 | Add details about our product | Provide additional information about our product and its benefits. | 1 | André | Done |
-| T03               | Contact the Sales Team | W03 | Add a form for email communication with the sales group | Create a contact section where users can provide their information. | 1 | Miguel | Done |
-| T04               | Explore Testimonials or Success Stories | W04 | Design a section to showcase testimonials or success stories | Create a section where users can read positive experiences from other clients. | 1 | Fabrizzio | done |
+| HU-01             | Registro de Usuario | W05 |Add registration   | Capacidad para crear un nuevo usuario e ingresar a la pagina|3|André|Done|
+| HU-02              |Inicio de Sesión | W06|Add login  | Capacidad de ingresar a la pagina colocando tu nombre de usuario y contraseña | 3 | André | Done |
+| HU-03              | Explorar Catálogo de Cómicsm | W07 | Add a cards with information of the comics| Crea una seccion con diversos cuadros con la informacion de los comics disponibles | 4 | Alvaro | Done |
+| HU-07             | Explorar Catálogo de Libros Educativos | W08 |  Add a cards with information of the educational books | Crea una seccion con diversos cuadros con la informacion de los libros educativos disponibles | 4 | Alvaro | done |
+| HU-11           | Recomendaciones Personalizadas | W08 |  Gives book recommendations to the user | Crea una seccion con diversos libros que al usuario le puedan interesar | 4 | Miguel | done |
 
 During the sprint, the following elements were developed:
 
