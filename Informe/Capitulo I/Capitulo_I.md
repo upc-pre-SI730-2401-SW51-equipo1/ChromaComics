@@ -11,7 +11,37 @@ Visión: Nos esforzamos por convertirnos en el principal destino para los amante
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-## 1.2. Solution Profile
+**Sergio Joel Pecan**
+
+<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/145626151/4a9fc240-68c7-4b1b-8e8b-2b41a01dfc1a" width="300"/>
+
+Soy Sergio Joel Pecan, un estudiante de Ingeniería de Software en la UPC, actualmente en mi quinto ciclo. Desde pequeño, siempre he sentido una gran curiosidad por la tecnología y una pasión por la innovación que me impulsa constantemente a explorar y aprender nuevas cosas. Lo admito, soy un chico difícil de quedarme quieto, pero esa inquietud es mi mayor ventaja. Me encanta estar siempre en movimiento, buscando nuevas formas de innovar y aplicar lo que aprendo en el desarrollo de software. La UPC me ha brindado un entorno perfecto para nutrir mi curiosidad y ampliar mis horizontes tecnológicos.
+
+**Miguel Ángel Huamán Cataño**
+
+<img src="https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/129322252/32a9bbf4-f3fd-4db7-8215-87fff01a2bf4" width="300"/>
+
+Mi nombre es Miguel Ángel Huamán Cataño, tengo 20 años y soy estudiante de ingeniería de software. Soy una persona que disfruta trabajar con empeño para alcanzar mis objetivos, nunca me rindo a pesar de los momentos difíciles y haré todo lo posible para seguir mejorando en este largo camino de ser un buen profesional.
+
+**Andre Sebastian La torre Soto**
+
+<img src="https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/129322252/a842fa27-08bc-4315-88c4-a0a7a918caa0" width="300"/>
+
+Mi nombre es André Sebastián La torre Soto, actualmente me encuentro en el quinto ciclo de la carrera de Ingeniería de Software. Elegí esta carrera por mi afinidad con las matemáticas y las nuevas tecnologías. Soy alguien que disfruta el aprender y mejorar lo aprendido, a pesar de que esto a veces resulte difícil. Espero poder contribuir de manera positiva en este grupo para que juntos todos podamos alcanzar nuestras metas.
+
+**Fabrizzio Hernan Laguerre Challco**
+
+<img src="https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/129322252/41f5e7ab-c1c4-4de8-9a84-a5646ab60918" width="300"/>
+
+Mi nombre es Fabrizzio Hernán Laguerre Challco, tengo 19 años, desde pequeño siempre he sentido un interés por aprender a usar ciertos dispositivos siendo uno de estos los más útiles que tenemos en la actualidad, las computadoras, por ello me esforzado en practicar y aprender ciertas habilidades en ofimática, edición de videos, programación y en aprender inglés, habilidades que puedo ofrecer para contribuir al grupo.
+
+**Alvaro Crispin Ccancce**
+
+<img src="https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/129322252/581e48b8-75f3-44ac-a807-e382731354bb" width="300"/>
+
+Soy un estudiante universitario de séptimo ciclo de Ingeniería de Software. Me desempeño correctamente en equipo y de manera organizada. Siempre dedicado y comprometido para lograr los objetivos propuestos. Conocimientos en C++, HTML, JavaScript, BootsTrap y Kotlin. Mi meta personal es lograr que las personas puedan aprender a proteger sus datos, dentro de los sistemas, de manera sencilla.
+
+
 ### 1.2.1 Antecedentes y problemática
 **Antecedentes:**
 
