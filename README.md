@@ -964,6 +964,70 @@ No software deployment occurred during this sprint, as the focus was on the init
 
 Throughout the sprint, the team collaborated closely on defining the structure and styles of the landing page, actively discussing design and development best practices. GitHub repositories were used to coordinate work and conduct code reviews among team members.
 
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3.
+En este sprint nos enfocaremos en establecer los cimientos para la creación de la landing page de AgroGes utilizando HTML, CSS y JavaScript. Las tareas principales incluyen:
+
+- Usar la estructura general de la landing page incluido en el figma.
+- Usar la paleta de colores y estilos visuales definidos en el style guide.
+- Configurar el repositorio en GitHub para el proyecto.
+
+| Sprint #                           | Sprint 3                                                                                                                                                                                                                                                                                                          |
+|------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                    | Sprint Planning Background                                                                                                                                                                                                                                                                                        |
+| Date                               | 2024-06-08                                                                                                                                                                                                                                                                                                        |
+| Location                           | Virtual meeting via Google Meet                                                                                                                                                                                                                                                                                   |
+| Prepared By                        | Sergio                                                                                                                                                                                                                                                                                                            |
+| Attendees                          | Alvaro, Sergio Joel, André, Miguel, Fabrizzio                                                                                                                                                                                                                                                                     |
+| Sprint n - 3 Review Summary        | As this was our third meeting, we distributed tasks and provided constant feedback on the sections. All team members demonstrated their knowledge and experience during the feedback sessions before committing the work to the repository.                                                                       |
+| Sprint n - 3 Retrospective Summary | Our team members found that continuous review of progress before commits was necessary for the landing page development. While this approach focused us on the final product, it also limited creative freedom. For future deliveries, we plan to work closely in face-to-face meetings to avoid such situations. |
+|                                    | Sprint Goal & User Stories                                                                                                                                                                                                                                                                                        |
+| Sprint 3 Goal                      | Our sprint goal is to complete the back-end. Our metric for success will be achieving the following:                                                                                                                                                                                                              |
+| Sprint 3 Velocity                  | We aim to complete 9 story points, which we consider an acceptable workload for steady progress.                                                                                                                                                                                                                  |
 
 
+#### 5.2.3.2. Sprint Backlog 3.
+sprint backlog with the tasks:
+-Create Wireframes for Each Landing Page Section: Design wireframes for each section of the landing page.
+-Select and Apply a Color Palette Using CSS: Choose and implement a color scheme using CSS.
+-Set Up the Basic Structure of the Landing Page Using HTML: Create the foundational structure of the landing page using HTML.
+Apply Basic Styles Using CSS for Formatting and Design: Add basic styles to enhance the formatting and visual design of the page.
 
+
+| **User Story Id** | **Title**                  | **Work-Item/Task Id** | **Title**                                   | **Description**                                                                | **Estimation (Hours)** | **Assigned To** | **Status** |
+|-------------------|----------------------------|-----------------------|---------------------------------------------|--------------------------------------------------------------------------------|-----------------------|----------------|------------|
+| T01               | Access identity management | W01 | End point for identity management           | In this task, we will implement the end point for users to control the access. | 1 | Alvaro, Sergio Joel | Done |
+| T02               | Comics list                | W02 | End point for manage crud comics list       | Provide additional information about our product and its benefits.             | 1 | André | Done |
+| T03               | Payment ways               | W03 | End point for payment of comics and studies | Create a contact section where users can provide their information.            | 1 | Miguel | Done |
+| T04               | Cards to pay               | W04 | End point for the card of items             | Create a section where users can read positive experiences from other clients. | 1 | Fabrizzio | done |
+
+During the sprint, the following elements were developed:
+
+- Detailed wireframes for each section of the landing page.
+- A defined color palette applied using CSS.
+- The basic structure of the landing page created in HTML.
+
+| Repository | Branch | Commit Id | Commit Message Body | Committed on (Date) |
+|------------|--------|-----------|---------------------|--------------------|
+| SergioPecan| main   | 8c856     | style: update landing language | 12/04/2024 |
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+Preliminary tests were conducted to verify the correct display and functionality of the landing page across different devices and browsers.
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+During the sprint, active work was done on developing the landing page using C# structure the bounded context of the platform.
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Documentation was prepared regarding the landing page structure, including wireframes and a description of the color palette used.
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+No software deployment occurred during this sprint, as the focus was on the initial development of the landing page.
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Throughout the sprint, the team collaborated closely on defining the structure and styles of the landing page, actively discussing design and development best practices. GitHub repositories were used to coordinate work and conduct code reviews among team members.
