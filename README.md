@@ -70,6 +70,11 @@ Para la elaboración del informe correspondiente a las entregas TB1, TP, TB2 y T
 | **Fabrizzio Hernan Laguerre Challco** | Trabajé en equipo para la realización del trabajo y contribuí en el informe, investigando para realizar mi frontend. Desarrollé el frontend para el carrito de compras y corregí otros aspectos del trabajo. Implementé los endpoints para la sección del carrito de compras y las operaciones CRUD correspondientes, además de realizar correcciones en el diálogo del carrito de compras en el frontend. Conecté el frontend y el backend, mejorando mi endpoint. |
 
 Evidencias de las contribuciones en los commits del informe:
+![image](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/d982b1f5-a7a1-484f-8019-7f0a3b5e0a11)
+![image](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/4498162a-b0ca-4054-ae19-c456df2958ff)
+![image](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/01c7e31c-4e88-4a48-ac1c-0ede56c610cb)
+
+
 
 
 ## Student Outcome
