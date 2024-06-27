@@ -1370,6 +1370,144 @@ Sprint backlog with the tasks:
 | HU-02 | Inicio de Sesión | W08 | Endpoint para autenticación de usuarios | Implementar el endpoint para la autenticación de usuarios, permitiendo el inicio de sesión con email y contraseña. | 3 | Fabrizzio | Done | 
 | HU-03 | Explorar Catálogo de Cómics| W09 | Endpoint para gestión de categorías | Implementar el endpoint para gestionar las categorías de cómics y libros educativos, facilitando su organización y búsqueda. | 2 | André | Done |
 
+During the sprint, the following elements were developed:
+ - Detailed wireframes for each section of the landing page.
+ - A defined color palette applied using CSS. 
+- The basic structure of the landing page created in HTML. 
+- Endpoints for recommendations, shopping carts, authentication, and categories were implemented.
+   
+| Repository | Branch | Commit Id | Commit Message Body | Committed on (Date) |
+|------------|--------|-----------|---------------------|--------------------|
+| SergioPecan| main   | 8c856     | style: update landing language | 12/06/2024 |
+| Huaman-Miguel | featureRecommendation| 9d7b2     | feat: add recommendation logic | 20/6/2024          |
+| SergioPecan   | master               | a5c3d     | fix: resolve merge conflicts   | 12/07/2024          |
+| UwUInspector  | featureShoppingCarts | f6e3a     | feat: implement shopping carts | 12/6/2024          |
+| AndreSebastian18 | featureLoginUser  | c2f9b     | feat: user login functionality | 12/04/2024          |
+| acrispin06    | featureComicTable    | 7g8h2     | refactor: comic table layout   | 12/04/2024          |
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review 
+Preliminary tests were conducted to verify the correct display and functionality of the landing page across different devices and browsers. The testing suite included unit tests for new features like authentication and shopping cart logic. 
+
+Relacionado a HU-11:
+
+    Feature: Personalized Recommendations
+    
+    As a user of ChromaComics
+    I want to receive personalized recommendations
+    So that I can discover comics that match my interests
+    
+    Scenario: Receive personalized recommendations
+        Given that I have an account with reading history
+        When I visit the recommendations endpoint
+        Then I should receive a list of comics based on my preferences
+        
+    Scenario: No recommendations available
+        Given that I have no reading history
+        When I visit the recommendations endpoint
+        Then I should receive a message indicating no recommendations are available
+
+Relacionado a T05:
+
+    Feature: Shopping Cart Management
+    
+    As a user of ChromaComics
+    I want to manage my shopping cart
+    So that I can add, remove, and modify items before purchase
+    
+    Scenario: Add item to shopping cart
+        Given that I am browsing comics
+        When I add a comic to my cart
+        Then the comic should appear in my shopping cart
+        
+    Scenario: Remove item from shopping cart
+        Given that I have comics in my cart
+        When I remove a comic
+        Then the comic should no longer appear in my shopping cart
+
+Relacionado a HU-01:
+
+    Feature: User Registration
+    
+    As a new user of ChromaComics
+    I want to register for an account
+    So that I can access personalized features
+    
+    Scenario: Successful user registration
+        Given that I provide valid registration details
+        When I submit the registration form
+        Then I should receive a confirmation email
+        And my account should be created successfully
+        
+    Scenario: Registration with invalid details
+        Given that I provide invalid registration details
+        When I submit the registration form
+        Then I should receive an error message
+        And my account should not be created
+
+Relacionado a HU-02:
+
+    Feature: User Authentication
+    
+    As a registered user of ChromaComics
+    I want to log in to my account
+    So that I can access my personalized dashboard
+    
+    Scenario: Successful login
+        Given that I provide valid credentials
+        When I submit the login form
+        Then I should be redirected to my dashboard
+        
+    Scenario: Unsuccessful login with invalid credentials
+        Given that I provide invalid credentials
+        When I submit the login form
+        Then I should receive an error message
+        And I should not be logged in
+
+Relacionado a HU-03:
+
+    Feature: Browse Comic Categories
+    
+    As a user of ChromaComics
+    I want to browse through categories of comics
+    So that I can easily find comics of interest
+    
+    Scenario: View comic categories
+        Given that categories are available
+        When I visit the categories endpoint
+        Then I should see a list of comic categories
+        
+    Scenario: No categories available
+        Given that no categories are available
+        When I visit the categories endpoint
+        Then I should receive a message indicating no categories are available
+
+#### 5.2.4.5. Execution Evidence for Sprint Review 
+During the sprint, active work was done on developing the landing page using the bounded context of the platform. The team also integrated the endpoints for the recommendation system, shopping cart, authentication, and categories. 
+
+![image](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/5db20d20-05e6-4da5-89d4-f393857218e7)
+
+![image](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/f4fceefc-ede5-48cc-b0f6-20c159c77520)
+
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review 
+Documentation was prepared regarding the landing page structure, including wireframes and a description of the color palette used. Additionally, detailed API documentation for the new endpoints was created. 
+
+![image](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/fe780ffe-c1ad-4a78-92dd-035e5e7ea635)
+![image](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/e1d5fc83-feca-44e8-a24d-eb491dd2ae7e)
+![image](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/97f21962-608d-45de-a291-ff50e8f0311e)
+
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review 
+The software deployment was successfully carried out during this sprint. The initial version of the landing page was deployed, and the endpoints for recommendations, shopping carts, authentication, and categories were made available on the staging server. 
+
+![image](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/51dc672d-fd20-4d5d-bf91-86c4acb4cc4d)
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint 
+Throughout the sprint, the team collaborated closely on defining the structure and styles of the landing page, actively discussing design and development best practices. GitHub repositories were used to coordinate work and conduct code reviews among team members. Regular stand-up meetings and code reviews ensured smooth collaboration and timely resolution of issues.
+
+![image](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/4a1b9aff-e46b-4260-b726-8608a3b1498f)
+![image](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/28565445-7364-4cce-92b7-09ebcc3e461a)
+
 
 # Conclusiones
 
