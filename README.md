@@ -1290,5 +1290,25 @@ Sprint backlog with the tasks:
 | HU-01 | Registro de Usuario | W07 | Endpoint para registro de usuarios | Implementar el endpoint para el registro de nuevos usuarios, incluyendo validación de datos y envío de confirmación por email. | 2 | Sergio | Done | 
 | HU-02 | Inicio de Sesión | W08 | Endpoint para autenticación de usuarios | Implementar el endpoint para la autenticación de usuarios, permitiendo el inicio de sesión con email y contraseña. | 3 | Fabrizzio | Done | 
 | HU-03 | Explorar Catálogo de Cómics| W09 | Endpoint para gestión de categorías | Implementar el endpoint para gestionar las categorías de cómics y libros educativos, facilitando su organización y búsqueda. | 2 | André | Done |
->>>>>>> 92183298ab9577e4803540ed9537e247176df90b
+
+
+# Conclusiones
+
+- **Integración Tecnológica Efectiva**: La utilización de Vue.js para el frontend y .NET para el backend permitió una integración fluida y eficiente. Ambas tecnologías se complementaron bien, facilitando el desarrollo de una aplicación robusta y escalable.
+
+- **Trabajo en Equipo**: El proyecto destacó la importancia del trabajo en equipo. La comunicación constante y la distribución de tareas claras fueron esenciales para cumplir con los objetivos de cada sprint. Las reuniones periódicas permitieron una retroalimentación continua y mejoras en el proceso de desarrollo.
+
+- **Desafíos y Aprendizajes**: A lo largo del proyecto, enfrentamos varios desafíos técnicos y de coordinación. Sin embargo, estos desafíos se convirtieron en oportunidades de aprendizaje, fortaleciendo nuestras habilidades tanto en desarrollo de software como en gestión de proyectos.
+
+- **Entrega de Funcionalidades Clave**: Se lograron implementar todas las funcionalidades clave previstas en el backlog, incluyendo endpoints para recomendaciones personalizadas, carrito de compras, registro y autenticación de usuarios, y gestión de categorías. Esto demostró nuestra capacidad para cumplir con los requisitos y objetivos del proyecto.
+
+# Recomendaciones
+
+- **Mejora en la Comunicación**: Para futuros proyectos, se recomienda mejorar aún más la comunicación entre los miembros del equipo, especialmente mediante reuniones presenciales periódicas. Esto puede ayudar a resolver problemas más rápidamente y fomentar un entorno de colaboración más efectivo.
+
+- **Documentación Detallada**: Mantener una documentación detallada y actualizada de todo el proceso de desarrollo. Esto no solo facilita el trabajo del equipo actual, sino que también sirve como referencia valiosa para futuros desarrolladores que puedan trabajar en el proyecto.
+
+- **Pruebas Continuas**: Implementar un enfoque de pruebas continuas durante el desarrollo. Esto incluye pruebas unitarias, de integración y de usuario. Un ciclo de pruebas robusto puede identificar y resolver problemas antes de que se conviertan en obstáculos mayores.
+
+- **Feedback del Usuario**: Incorporar un sistema de feedback continuo de los usuarios finales. Esto ayudará a identificar áreas de mejora y asegurar que el producto final realmente satisface las necesidades y expectativas de los usuarios.
 
