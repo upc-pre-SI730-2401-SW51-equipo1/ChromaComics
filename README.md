@@ -1143,6 +1143,112 @@ Al atender estas necesidades específicas, nuestra plataforma puede posicionarse
 
 #### 5.3.3. Evaluaciones según heurísticas.
 
+#### UX Heuristics & Principles Evaluation
+##### Usability – Inclusive Design – Information Architecture
+
+**CARRERA:** Ingeniería de Software  
+**CURSO:** Aplicaciones Web  
+**SECCIÓN:** SW51  
+**PROFESORES:** Juan Carlos Tinoco Licas 
+**AUDITOR:** ChromaComics  
+**CLIENTE(S):** Todos  
+**SITE o APP A EVALUAR:** ChromaComics  
+
+#### TAREAS A EVALUAR:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Registro de un usuario nuevo
+2. Recomendación de en un cómic
+3. Búsqueda de un cómic específico
+4. Carrito de compras para libros y comics
+5. Realizar una compra de un cómic digital
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Administrar recomendaciones personalizadas
+2. Crear una lista de lectura compartida
+3. Participar en un club de lectura virtual
+4. Guardar "alerta de nuevos lanzamientos"
+5. Cancelación de la suscripción premium
+
+#### ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+#### TABLA RESUMEN:
+
+| # | Problema | Escala de severidad | Heurística/Principio violada(o) |
+|---|----------|---------------------|---------------------------------|
+| 1 | No hay imagenes en la sección de recomendaciones | 1 | Usability: Flexibilidad y eficiencia de uso |
+| 2 | Algunos botones carecen de notabilidad en el sistema | 1 | Usability: Visibilidad del estado del sistema |
+| 3 | No hay una guía inicial para nuevos usuarios | 2 | Usability: Ayuda y documentación |
+| 4 | Algunos botones no tienen funcionalidad | 2 | Usability: Prevención de errores |
+| 5 | Información sobre la suscripción premium no es destacada y sin ofertas atractivas para el consumidor | 1 | Information Architecture: Is it findable? |
+
+#### DESCRIPCIÓN DE PROBLEMAS:
+
+##### PROBLEMA #1: No hay imagenes en la sección de recomendaciones
+- **Severidad:** 1
+- **Heurística violada:** Usability - Flexibilidad y eficiencia de uso
+- **Problema:**
+  La sección de recomendación no presenta imágenes.
+
+<img src="https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/fdc80378-2ff0-45aa-9f80-44a0ffe7834c" alt="">
+
+- **Recomendación:**
+  Modificar los atributos de la entidad para mostrar más datos del libro recomendado y las imágenes correctas.
+
+##### PROBLEMA #2: Algunos botones carecen de notabilidad en el sistema
+- **Severidad:** 1
+- **Heurística violada:** Usability - Visibilidad del estado del sistema
+- **Problema:**
+  Varios botones en la interfaz no tienen mucha notabilidad visibles, lo que puede confundir a los usuarios sobre su función.
+
+<img src="https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/731da081-decf-4e92-ab04-b16de1930f17" alt="">
+
+- **Recomendación:**
+  Añadir etiquetas claras y más amplias a todos los botones para mejorar la comprensión del usuario.
+
+##### PROBLEMA #3: No hay una guía inicial para nuevos usuarios
+- **Severidad:** 2
+- **Heurística violada:** Usability - Ayuda y documentación
+- **Problema:**
+  Los nuevos usuarios no reciben una guía inicial que explique las funciones principales y la navegación de la aplicación.
+
+<img src="https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/f2dc09b7-cf8a-4ac6-9d12-2e82d06234c2" alt="">
+
+- **Recomendación:**
+  Implementar un tutorial interactivo o una guía inicial que oriente a los nuevos usuarios a través de las funciones clave de la aplicación.
+
+##### PROBLEMA #4: Algunos botones no tienen funcionalidad
+- **Severidad:** 2
+- **Heurística violada:** Usability - Prevención de errores
+- **Problema:**
+  Al presionar el botón del carrito o algunas secciones no presentan funcionalidad o surgen errores.
+
+<img src="https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/af5decf7-5bb7-479a-8b16-6ce99355fb2d" alt="">
+
+- **Recomendación:**
+  Hacer pruebas para verificar el problema con algunos botones, asi como agregar funcionalidad si hace falta.
+
+##### PROBLEMA #5: Información sobre la suscripción premium no es destacada y sin ofertas atractivas para el consumidor
+- **Severidad:** 1
+- **Heurística violada:** Information Architecture - Is it findable?
+- **Problema:**
+  Los beneficios y características de la suscripción premium no están claramente destacados, ya que se le podría agregar más beneficios y mayores ofertas a nuevos usuarios, lo que puede pasar desapercibido para los usuarios interesados.
+
+<img src="https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/assets/112042418/68bb6eb3-23e2-4f80-bc11-0b69a99fbcba" alt="">
+
+- **Recomendación:**
+  Resaltar la información y brindar mayor énfasis en futuras ofertas sobre la suscripción premium en la página principal y en secciones relevantes de la aplicación para atraer la atención de los usuarios.
+
+
 #### 5.4. Video About-the-Product.
 =======
 ### 5.2.4. Sprint 4
