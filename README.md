@@ -1031,3 +1031,117 @@ No software deployment occurred during this sprint, as the focus was on the init
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
 Throughout the sprint, the team collaborated closely on defining the structure and styles of the landing page, actively discussing design and development best practices. GitHub repositories were used to coordinate work and conduct code reviews among team members.
+
+#### 5.3 Validation Interviews.
+
+**Para consumidores de comics:**
+
+Preguntas introductorias:
+
+- ¿Cuál es su nombre completo y cuántos años tiene? Además, ¿en qué distrito se encuentra actualmente?
+- ¿A qué se dedica actualmente?
+- ¿Cuáles son los dispositivos que utiliza principalmente?
+- ¿Qué géneros de cómics prefieres y por qué?
+- ¿Sigues a autores específicos? ¿Cuáles son tus favoritos?
+- ¿Prefieres comprar cómics en formato físico o digital? ¿Por qué?
+- ¿Con qué frecuencia compras cómics nuevos?
+- ¿Cómo decides qué cómic comprar? ¿Qué factores influyen en tu decisión?
+- ¿Qué buscas en una tienda de cómics, ya sea en línea o física?
+- Describe una experiencia de compra positiva que hayas tenido al adquirir cómics. ¿Qué la hizo especial?
+
+**Para consumidores de libros educativos:**
+
+Preguntas introductorias:
+
+- ¿Cuál es su nombre completo y cuántos años tiene? Además, ¿en qué distrito se encuentra actualmente?
+- ¿A qué se dedica actualmente?
+- ¿Cuáles son los dispositivos que utiliza principalmente?
+- ¿Qué temas o campos te interesan más y por qué?
+- ¿Buscas libros educativos para autoaprendizaje, apoyo escolar/universitario, o desarrollo profesional?
+- ¿Qué te motiva a elegir un libro educativo en particular? ¿Es por recomendaciones, reseñas, o el autor?
+- ¿Valoras que los libros educativos vengan con recursos adicionales, como acceso a sitios web con contenido extra, videos, o ejercicios interactivos?
+- ¿Utilizas plataformas en línea específicas para apoyar tu educación o desarrollo profesional? ¿Cuáles?
+
+
+#### 5.3.1. Diseño de Entrevistas.
+_Consumidor de comics_
+
+Nombre: Jose Luis Jhon Castillo
+
+Edad: 22 años
+
+Distrito: Santiago de Surco, Lima
+
+![Alt text](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/joseluis.png?raw=true)
+
+Jose Luis es un universitario que en sus pasatiempos se dedica a coleccionar y leer comics. El comenta que compro regularmente cada semana un nuevo comic en físico de su obra favorita, y nos brinda sus comentarios y esperiencias vividas mientras aumentaba su colección de comics.
+A el le gustaría confiar en una plataforma que le brinde herramientas necesarias para poder seguir aumentando el tamaño y diversidad de su colección, a la vez que busca conocer nuevos comics y autores.
+
+_Consumidor de libros educativos_
+
+Nombre: Juan Jose Alfaro Hernandez
+
+Edad: 18 años
+
+Distrito: Lince, Lima
+
+![Alt text](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics/blob/Informe/assets/josealfaro.png?raw=true)
+
+Jose alfaro es un postulante que se encuentra actualmente postulando a la carrera de ingeniería de software en la universidad peruana de ciencias aplicadas, nos comenta cuales son sus intereses y metodos al escoger que libros utilizar para preparase para el examen de admisión.
+A el le gustaría confiar en una plataforma que le brinde herramientas necesarias para poder tener siempre disponible los libros que necesita para su futuro desarrollo en la carrera.
+
+#### 5.3.2. Registro de Entrevistas.
+
+Perfil del usuario:
+José Luis es un universitario con un pasatiempo específico: la colección y lectura de cómics. Este hobby no solo implica un consumo regular, sino también una pasión por la expansión y diversificación de su colección.
+
+Necesidades identificadas:
+
+Acceso y Diversidad de Cómics
+
+Necesidad de novedades constantes: Como coleccionesista, José Luis desea estar al día con los últimos lanzamientos y tener acceso a ellos tan pronto como estén disponibles.
+Diversidad en selección: Además de los títulos populares, busca descubrir obras menos conocidas o de nicho, lo que requiere una plataforma que ofrezca un catálogo amplio y variado.
+
+Herramientas de Descubrimiento y Recomendación
+
+Recomendaciones personalizadas: Basadas en sus compras y lecturas anteriores, las recomendaciones deben ajustarse a sus gustos específicos y ayudarle a descubrir autores y series nuevas que probablemente le interesen.
+Alertas y notificaciones: Funcionalidades para informarle de nuevos lanzamientos o la llegada de cómics que podría estar esperando.
+
+Experiencia de Usuario
+
+Interfaz amigable y eficiente: Fácil de navegar, rápida y visualmente atractiva, lo cual es especialmente importante para un público interesado en el arte gráfico.
+
+Perfil del usuario:
+José Alfaro es un postulante a una carrera de ingeniería de software, lo cual indica una necesidad de recursos educativos especializados para prepararse para exámenes y para el futuro académico.
+
+Necesidades identificadas:
+
+Recursos Educativos Completos y Actualizados
+
+Acceso a libros de texto y guías de estudio: Necesita materiales que cubran el currículo actual y preparación específica para exámenes.
+Recursos adicionales: Acceso a videos, tutoriales y cursos en línea que complementen su aprendizaje.
+
+Accesibilidad y Conectividad
+
+Acceso desde cualquier lugar y en cualquier momento: Plataforma basada en la nube con opciones de sincronización entre dispositivos para que pueda estudiar en el camino o en diferentes ubicaciones.
+Soporte offline: Posibilidad de acceder a los recursos sin conexión a internet.
+
+Experiencia de Usuario
+
+Interfaz amigable y eficiente: Fácil de navegar, rápida y visualmente atractiva, lo cual es especialmente importante para un público interesado en el arte gráfico.
+
+Implicaciones Generales para nosotros.
+
+Interfaz Adaptativa: Debe ser capaz de atender tanto al usuario visual y creativo, como al técnico y académico, ajustando la experiencia de usuario según el contenido y las necesidades del segmento.
+
+Escalabilidad: Considerar la expansión futura de la plataforma para incluir más recursos, tanto en el ámbito del entretenimiento como en el educativo.
+
+Soporte Técnico Robusto: Garantizar que el soporte técnico esté disponible y sea eficaz para resolver cualquier inconveniente que pueda afectar la experiencia de usuario.
+Al atender estas necesidades específicas, tu plataforma puede posicionarse como una herramienta invaluable tanto para los aficionados a los cómics como para los estudiantes que buscan apoyo académico, lo que potencialmente podría aumentar la retención de usuarios y atraer a un público más amplio.
+
+Al atender estas necesidades específicas, nuestra plataforma puede posicionarse como una herramienta invaluable tanto para los aficionados a los cómics como para los estudiantes que buscan apoyo académico, lo que potencialmente podría aumentar la retención de usuarios y atraer a un público más amplio.
+
+#### 5.3.3. Evaluaciones según heurísticas.
+
+#### 5.4. Video About-the-Product.
+
