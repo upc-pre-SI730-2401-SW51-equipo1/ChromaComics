@@ -1031,3 +1031,44 @@ No software deployment occurred during this sprint, as the focus was on the init
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
 Throughout the sprint, the team collaborated closely on defining the structure and styles of the landing page, actively discussing design and development best practices. GitHub repositories were used to coordinate work and conduct code reviews among team members.
+
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4.
+En este sprint nos enfocamos en implementar los endpoints para recomendaciones, carritos de compras, autenticación y categorías. Además, realizamos el despliegue y la conexión entre el frontend y el backend. Las tareas principales incluyeron:
+
+- Usar la estructura general de la landing page incluida en el Figma.
+- Usar la paleta de colores y estilos visuales definidos en el style guide.
+- Configurar el repositorio en GitHub para el proyecto.
+- Realizar correcciones a componentes del front-end.
+- Establecer la conexión entre el frontend y el backend.
+
+| Sprint #                           | Sprint 4                                                                                                                                                                                                                                                                                                          |
+|------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                    | Sprint Planning Background                                                                                                                                                                                                                                                                                        |
+| Date                               | 2024-06-19                                                                                                                                                                                                                                                                                                        |
+| Location                           | Virtual meeting via Google Meet                                                                                                                                                                                                                                                                                   |
+| Prepared By                        | Sergio                                                                                                                                                                                                                                                                                                            |
+| Attendees                          | Alvaro, Sergio Joel, André, Miguel, Fabrizzio                                                                                                                                                                                                                                                                     |
+| Sprint n - 4 Review Summary        | In this sprint, we focused on implementing the endpoints for recommendations, shopping carts, authentication, and categories. Additionally, corrections were made to the report and front-end components. We also performed the deployment and established the connection between the front-end and back-end. All team members demonstrated their knowledge and experience during the feedback sessions before committing the work to the repository.|
+| Sprint n - 4 Retrospective Summary | Our team members found that continuous review of progress before commits was necessary for the back-end development. While this approach focused us on the final product, it also limited creative freedom. |
+|                                    | Sprint Goal & User Stories                                                                                                                                                                                                                                                                                        |
+| Sprint 4 Goal                      | Our sprint goal is to complete the back-end, make necessary corrections to the report and front-end, and perform the deployment and connection between the front-end and back-end. Our metric for success will be achieving the following:                                                                                                                                                                                                              |
+| Sprint 4 Velocity                  | We aim to complete 9 story points, which we consider an acceptable workload for steady progress.                                                                                                                                                                                                                  |
+#### 5.2.4.2. Sprint Backlog 4.
+Sprint backlog with the tasks: 
+- Implement Endpoints for Recommendations: Develop the endpoints for recommendations in the backend. 
+- Implement Endpoints for Shopping Carts: Create and integrate the endpoints for shopping carts. 
+- Implement Endpoints for Authentication: Set up the endpoints for user authentication. 
+- Implement Endpoints for Categories: Develop and integrate the endpoints for categories. 
+- Deployment and Connection of Frontend and Backend: Perform the deployment and establish the connection between the frontend and backend. 
+- Correct Report and Front-End Components: Make necessary corrections to the report and front-end components based on feedback.
+
+| **User Story Id** | **Title**                  | **Work-Item/Task Id** | **Title**                                   | **Description**                                                                | **Estimation (Hours)** | **Assigned To** | **Status** |
+|-------------------|----------------------------|-----------------------|---------------------------------------------|--------------------------------------------------------------------------------|-----------------------|----------------|------------|
+| HU-11 | Recomendaciones Personalizadas | W05 | Endpoint para recomendaciones | Implementar el endpoint para ofrecer recomendaciones personalizadas a los usuarios basadas en sus preferencias y lecturas anteriores. | 2 | Miguel | Done |
+| T05 | Shopping Cart | W06 | Endpoint para carrito de compras | Implementar el endpoint para gestionar el carrito de compras, permitiendo agregar, eliminar y modificar productos en el carrito. | 3 | Alvaro | Done | 
+| HU-01 | Registro de Usuario | W07 | Endpoint para registro de usuarios | Implementar el endpoint para el registro de nuevos usuarios, incluyendo validación de datos y envío de confirmación por email. | 2 | Sergio | Done | 
+| HU-02 | Inicio de Sesión | W08 | Endpoint para autenticación de usuarios | Implementar el endpoint para la autenticación de usuarios, permitiendo el inicio de sesión con email y contraseña. | 3 | Fabrizzio | Done | 
+| HU-03 | Explorar Catálogo de Cómics| W09 | Endpoint para gestión de categorías | Implementar el endpoint para gestionar las categorías de cómics y libros educativos, facilitando su organización y búsqueda. | 2 | André | Done |
+
